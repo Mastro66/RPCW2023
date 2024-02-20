@@ -91,9 +91,10 @@ Especifica a espécie à qual uma árvore pertence.
 
 temnomeCientifico (tem nome científico):
 Especifica o nome científico de uma árvore.
-temGestor (tem gestor):
 
+temGestor (tem gestor):
 Especifica o gestor ou responsável por uma árvore.
+
 zonaImplantacao (zona de implantação):
 Especifica a zona de implantação de uma árvore.
 
