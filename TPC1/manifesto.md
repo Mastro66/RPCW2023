@@ -5,7 +5,7 @@ Este trabalho envolve a conversão de dados de registo de plantas de um formato 
 ## Ficheiros:
 [plantas.json](plantas.json): Ficheiro de entrada contendo dados de registo de plantas em formato JSON.
 
-Plantas.ttl: Ficheiro de saída que armazena a ontologia RDF em serialização Turtle (TTL) (Obtido após corrermos o pyPlantas.py).
+[Plantas.ttl](Plantas.ttl): Ficheiro de saída que armazena a ontologia RDF em serialização Turtle (TTL) (Obtido após corrermos o pyPlantas.py).
 
 [pyPlantas.py](pyPlantas.py): Script em Python responsável pelo processo de conversão.
 
@@ -40,7 +40,7 @@ Cada instância é associada à sua classe correspondente e reflete as informaç
 
 ### 4. Guardar a Ontologia:
 
-A ontologia resultante é guardada em formato Turtle no ficheiro "Plantas.ttl".
+A ontologia resultante é guardada em formato Turtle no ficheiro "[Plantas.ttl](Plantas.ttl)".
 
 ```python
 with open("Plantas.ttl", "w", encoding="utf-8") as output_file:
@@ -124,7 +124,7 @@ Representa o estado de uma árvore.
 ## Forma de Utilização:
 1. Certificar que o ficheiro de entrada "[plantas.json](plantas.json)" está presente com os dados de registo de plantas necessários.
 2. Executar o script [pyPlantas.py](pyPlantas.py)" para gerar a ontologia RDF em formato Turtle.
-3. A ontologia resultante é guardada no ficheiro "Plantas.ttl".
+3. A ontologia resultante é guardada no ficheiro "[Plantas.ttl](Plantas.ttl)".
 
 ## Autor
 Fernando Alves, PG54470
