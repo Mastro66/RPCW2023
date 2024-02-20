@@ -3,17 +3,15 @@
 Este trabalho envolve a conversão de dados de registo de plantas de um formato JSON para uma ontologia RDF utilizando a serialização Turtle (TTL). A ontologia RDF resultante é projetada para representar informações sobre árvores (Arvores) e as suas propriedades associadas, como localização, espécie e detalhes de manutenção.
 
 ## Ficheiros:
-plantas.json: Ficheiro de entrada contendo dados de registo de plantas em formato JSON.
-
+[a relative link](plantas.json): Ficheiro de entrada contendo dados de registo de plantas em formato JSON.
 Plantas.ttl: Ficheiro de saída que armazena a ontologia RDF em serialização Turtle (TTL) (Obtido após corrermos o pyPlantas.py).
-
-pyPlantas.py: Script em Python responsável pelo processo de conversão.
+[a relative link](pyPlantas.py): Script em Python responsável pelo processo de conversão.
 
 ## Passos:
 
 ### 1. Leitura dos Dados JSON:
 
-O script começa por ler os dados de registo de plantas a partir do ficheiro "plantas.json" utilizando o módulo JSON. 
+O script começa por ler os dados de registo de plantas a partir do ficheiro "[a relative link](plantas.json)" utilizando o módulo JSON. 
 
 Foi necessário abrir o ficheiro utilizando a função open com a especificação do formato UTF-8 (encoding="utf-8"). Esta medida serve para garantir que os dados contidos no ficheiro, codificados em UTF-8, fossem lidos corretamente durante o processo de carregamento com a função json.load(f).
 
@@ -122,8 +120,8 @@ estado (estado):
 Representa o estado de uma árvore.
 
 ## Forma de Utilização:
-1. Certificar que o ficheiro de entrada "plantas.json" está presente com os dados de registo de plantas necessários.
-2. Executar o script "pyPlantas.py" para gerar a ontologia RDF em formato Turtle.
+1. Certificar que o ficheiro de entrada "[a relative link](plantas.json)" está presente com os dados de registo de plantas necessários.
+2. Executar o script "[a relative link](pyPlantas.py)" para gerar a ontologia RDF em formato Turtle.
 3. A ontologia resultante é guardada no ficheiro "Plantas.ttl".
 
 ## Autor
