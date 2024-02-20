@@ -128,4 +128,4 @@ Representa o estado de uma árvore.
 3. A ontologia resultante é guardada no ficheiro "[Plantas.ttl](Plantas.ttl)".
 
 ## Autor
-Fernando Alves, PG54470
+👤 **Fernando Alves - PG54470**
