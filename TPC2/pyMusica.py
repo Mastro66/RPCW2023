@@ -32,15 +32,13 @@ ttl = """@prefix : <http://rpcw.di.uminho.pt/2024/dbMusica/> .
 :temCurso rdf:type owl:ObjectProperty ;
                 rdfs:domain :Aluno ;
                 rdfs:range :Curso .
-                <http://purl.org/dc/elements/1.1/creator> "fernas" .
-
+                
 
 ###  http://rpcw.di.uminho.pt/2024/dbMusica#temInstrumento
 :temInstrumento rdf:type owl:ObjectProperty ;
                 rdfs:domain :Curso ;
                 rdfs:range :Instrumento .
-                <http://purl.org/dc/elements/1.1/creator> "fernas" .
-
+                
 
 #################################################################
 #    Data properties
@@ -50,43 +48,37 @@ ttl = """@prefix : <http://rpcw.di.uminho.pt/2024/dbMusica/> .
 :anoCurso rdf:type owl:DatatypeProperty ;
           rdfs:domain :Aluno ;
           rdfs:range xsd:int .
-          <http://purl.org/dc/elements/1.1/creator> "fernas" .
-
+          
 
 ###  http://rpcw.di.uminho.pt/2024/dbMusica#dataNasc
 :dataNasc rdf:type owl:DatatypeProperty ;
           rdfs:domain :Aluno ;
           rdfs:range xsd:string .
-          <http://purl.org/dc/elements/1.1/creator> "fernas" .
-
+          
 
 ###  http://rpcw.di.uminho.pt/2024/dbMusica#designacao
 :designacao rdf:type owl:DatatypeProperty ;
             rdfs:domain :Curso ;
             rdfs:range xsd:string .
-            <http://purl.org/dc/elements/1.1/creator> "fernas" .
-
+            
 
 ###  http://rpcw.di.uminho.pt/2024/dbMusica#duracao
 :duracao rdf:type owl:DatatypeProperty ;
          rdfs:domain :Curso ;
          rdfs:range xsd:int .
-         <http://purl.org/dc/elements/1.1/creator> "fernas" .
-
+         
 
 ###  http://rpcw.di.uminho.pt/2024/dbMusica#nomeAluno
 :nomeAluno rdf:type owl:DatatypeProperty ;
            rdfs:domain :Aluno ;
            rdfs:range xsd:string .
-           <http://purl.org/dc/elements/1.1/creator> "fernas" .
-
+           
 
 ###  http://rpcw.di.uminho.pt/2024/dbMusica#nomeInstrumento
 :nomeInstrumento rdf:type owl:DatatypeProperty ;
                  rdfs:domain :Instrumento ;
                  rdfs:range xsd:string .
-                 <http://purl.org/dc/elements/1.1/creator> "fernas" .
-
+                 
 
 #################################################################
 #    Classes
@@ -94,18 +86,15 @@ ttl = """@prefix : <http://rpcw.di.uminho.pt/2024/dbMusica/> .
 
 ###  http://rpcw.di.uminho.pt/2024/dbMusica#Aluno
 :Aluno rdf:type owl:Class .
-		<http://purl.org/dc/elements/1.1/creator> "fernas" .
-
+		
 
 ###  http://rpcw.di.uminho.pt/2024/dbMusica#Curso
 :Curso rdf:type owl:Class .
-		<http://purl.org/dc/elements/1.1/creator> "fernas" .
-
+		
 
 ###  http://rpcw.di.uminho.pt/2024/dbMusica#Instrumento
 :Instrumento rdf:type owl:Class .
-		<http://purl.org/dc/elements/1.1/creator> "fernas" .
-
+		
 
 #################################################################
 #    Individuals
