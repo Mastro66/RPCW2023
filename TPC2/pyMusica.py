@@ -38,6 +38,11 @@ ttl = """@prefix : <http://rpcw.di.uminho.pt/2024/dbMusica/> .
 :temInstrumento rdf:type owl:ObjectProperty ;
                 rdfs:domain :Curso ;
                 rdfs:range :Instrumento .
+
+###  http://rpcw.di.uminho.pt/2024/dbmusica#ensinaIntrumento
+:ensinaIntrumento rdf:type owl:ObjectProperty ;
+                  rdfs:domain :Curso ;
+                  rdfs:range :Instrumento .
                 
 
 #################################################################
@@ -68,16 +73,31 @@ ttl = """@prefix : <http://rpcw.di.uminho.pt/2024/dbMusica/> .
          rdfs:range xsd:int .
          
 
-###  http://rpcw.di.uminho.pt/2024/dbMusica#nomeAluno
-:nomeAluno rdf:type owl:DatatypeProperty ;
-           rdfs:domain :Aluno ;
-           rdfs:range xsd:string .
-           
+##  http://rpcw.di.uminho.pt/2024/dbmusica#idAluno
+:idAluno rdf:type owl:DatatypeProperty ;
+         rdfs:domain :Aluno .
 
-###  http://rpcw.di.uminho.pt/2024/dbMusica#nomeInstrumento
+
+###  http://rpcw.di.uminho.pt/2024/dbmusica#idCurso
+:idCurso rdf:type owl:DatatypeProperty ;
+         rdfs:domain :Curso .
+
+
+###  http://rpcw.di.uminho.pt/2024/dbmusica#idInstrumento
+:idInstrumento rdf:type owl:DatatypeProperty ;
+               rdfs:domain :Instrumento .
+
+
+###  http://rpcw.di.uminho.pt/2024/dbmusica#nomeInstrumento
 :nomeInstrumento rdf:type owl:DatatypeProperty ;
-                 rdfs:domain :Instrumento ;
-                 rdfs:range xsd:string .
+             rdfs:domain :Instrumento ;
+             rdfs:range xsd:string .
+
+
+###  http://rpcw.di.uminho.pt/2024/dbmusica#nomeAluno
+:nomeAluno rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Aluno ;
+      rdfs:range xsd:string .
                  
 
 #################################################################
