@@ -116,7 +116,7 @@ for instrumento in bd["instrumentos"]:
     instrumento["#text"] = instrumento["#text"].replace(" ", "_")
     ttl+=f"""
 
-###  http://rpcw.di.uminho.pt/2024/musica#{instrumento["#text"]}
+###  http://rpcw.di.uminho.pt/2024/dbMusica#{instrumento["#text"]}
 :{instrumento["#text"]} rdf:type owl:NamedIndividual ;
             :idinstrumento "{instrumento["id"]}" ;
            :instrumento "{instrumento["#text"]}" .
@@ -127,7 +127,7 @@ for curso in bd["cursos"]:
     curso["designacao"] = curso["designacao"].replace(" ", "_")
     ttl+=f"""
     
-###  http://rpcw.di.uminho.pt/2024/musica#{curso["id"]}
+###  http://rpcw.di.uminho.pt/2024/dbMusica#{curso["id"]}
 :{curso["id"]} rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :{curso["instrumento"]["#text"]} ;
      :designacao "{curso["designacao"]}" ;
@@ -143,7 +143,7 @@ for aluno in bd["alunos"]:
     aluno["instrumento"] = aluno["instrumento"].replace(" ", "_")
     ttl+=f"""
     
-###  http://rpcw.di.uminho.pt/2024/musica#{aluno["id"]}
+###  http://rpcw.di.uminho.pt/2024/dbMusica#{aluno["id"]}
 :{aluno["id"]} rdf:type owl:NamedIndividual ;
         :temCurso :{aluno["curso"]} ;
         :temInstrumento :{aluno["instrumento"]} ;

@@ -104,139 +104,139 @@
 
 
 
-###  http://rpcw.di.uminho.pt/2024/musica#Clarinete
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Clarinete
 :Clarinete rdf:type owl:NamedIndividual ;
             :idinstrumento "I1" ;
            :instrumento "Clarinete" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Contrabaixo
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Contrabaixo
 :Contrabaixo rdf:type owl:NamedIndividual ;
             :idinstrumento "I2" ;
            :instrumento "Contrabaixo" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Corne_Inglês
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Corne_Inglês
 :Corne_Inglês rdf:type owl:NamedIndividual ;
             :idinstrumento "I3" ;
            :instrumento "Corne_Inglês" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Eufónio
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Eufónio
 :Eufónio rdf:type owl:NamedIndividual ;
             :idinstrumento "I4" ;
            :instrumento "Eufónio" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Fagote
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Fagote
 :Fagote rdf:type owl:NamedIndividual ;
             :idinstrumento "I5" ;
            :instrumento "Fagote" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Flauta
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Flauta
 :Flauta rdf:type owl:NamedIndividual ;
             :idinstrumento "I6" ;
            :instrumento "Flauta" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Fliscorne
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Fliscorne
 :Fliscorne rdf:type owl:NamedIndividual ;
             :idinstrumento "I7" ;
            :instrumento "Fliscorne" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Guitarra
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Guitarra
 :Guitarra rdf:type owl:NamedIndividual ;
             :idinstrumento "I8" ;
            :instrumento "Guitarra" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Harpa
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Harpa
 :Harpa rdf:type owl:NamedIndividual ;
             :idinstrumento "I9" ;
            :instrumento "Harpa" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Oboé
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Oboé
 :Oboé rdf:type owl:NamedIndividual ;
             :idinstrumento "I10" ;
            :instrumento "Oboé" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Orgão
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Orgão
 :Orgão rdf:type owl:NamedIndividual ;
             :idinstrumento "I11" ;
            :instrumento "Orgão" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Percussão
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Percussão
 :Percussão rdf:type owl:NamedIndividual ;
             :idinstrumento "I12" ;
            :instrumento "Percussão" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Piano
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Piano
 :Piano rdf:type owl:NamedIndividual ;
             :idinstrumento "I13" ;
            :instrumento "Piano" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Saxofone
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Saxofone
 :Saxofone rdf:type owl:NamedIndividual ;
             :idinstrumento "I14" ;
            :instrumento "Saxofone" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Trombone
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Trombone
 :Trombone rdf:type owl:NamedIndividual ;
             :idinstrumento "I15" ;
            :instrumento "Trombone" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Trompa
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Trompa
 :Trompa rdf:type owl:NamedIndividual ;
             :idinstrumento "I16" ;
            :instrumento "Trompa" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Trompete
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Trompete
 :Trompete rdf:type owl:NamedIndividual ;
             :idinstrumento "I17" ;
            :instrumento "Trompete" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Tuba
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Tuba
 :Tuba rdf:type owl:NamedIndividual ;
             :idinstrumento "I18" ;
            :instrumento "Tuba" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Violoncelo
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Violoncelo
 :Violoncelo rdf:type owl:NamedIndividual ;
             :idinstrumento "I19" ;
            :instrumento "Violoncelo" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Violino
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Violino
 :Violino rdf:type owl:NamedIndividual ;
             :idinstrumento "I20" ;
            :instrumento "Violino" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Viola_de_Arco
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Viola_de_Arco
 :Viola_de_Arco rdf:type owl:NamedIndividual ;
             :idinstrumento "I21" ;
            :instrumento "Viola_de_Arco" .
     
 
-###  http://rpcw.di.uminho.pt/2024/musica#Bandolim
+###  http://rpcw.di.uminho.pt/2024/dbMusica#Bandolim
 :Bandolim rdf:type owl:NamedIndividual ;
             :idinstrumento "I22" ;
            :instrumento "Bandolim" .
     
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB1
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB1
 :CB1 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Clarinete ;
      :designacao "Curso_Básico_de_Clarinete" ;
@@ -246,7 +246,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS23
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS23
 :CS23 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Clarinete ;
      :designacao "Curso_Supletivo_de_Clarinete" ;
@@ -256,7 +256,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB2
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB2
 :CB2 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Contrabaixo ;
      :designacao "Curso_Básico_de_Contrabaixo" ;
@@ -266,7 +266,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS24
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS24
 :CS24 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Contrabaixo ;
      :designacao "Curso_Supletivo_de_Contrabaixo" ;
@@ -276,7 +276,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB3
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB3
 :CB3 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Corne_Inglês ;
      :designacao "Curso_Básico_de_Corne_Inglês" ;
@@ -286,7 +286,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS25
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS25
 :CS25 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Corne_Inglês ;
      :designacao "Curso_Supletivo_de_Corne_Inglês" ;
@@ -296,7 +296,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB4
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB4
 :CB4 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Eufónio ;
      :designacao "Curso_Básico_de_Eufónio" ;
@@ -306,7 +306,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS26
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS26
 :CS26 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Eufónio ;
      :designacao "Curso_Supletivo_de_Eufónio" ;
@@ -316,7 +316,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB5
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB5
 :CB5 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Fagote ;
      :designacao "Curso_Básico_de_Fagote" ;
@@ -326,7 +326,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS27
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS27
 :CS27 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Fagote ;
      :designacao "Curso_Supletivo_de_Fagote" ;
@@ -336,7 +336,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB6
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB6
 :CB6 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Flauta ;
      :designacao "Curso_Básico_de_Flauta" ;
@@ -346,7 +346,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS28
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS28
 :CS28 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Flauta ;
      :designacao "Curso_Supletivo_de_Flauta" ;
@@ -356,7 +356,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB7
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB7
 :CB7 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Fliscorne ;
      :designacao "Curso_Básico_de_Fliscorne" ;
@@ -366,7 +366,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS29
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS29
 :CS29 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Fliscorne ;
      :designacao "Curso_Supletivo_de_Fliscorne" ;
@@ -376,7 +376,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB8
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB8
 :CB8 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Guitarra ;
      :designacao "Curso_Básico_de_Guitarra" ;
@@ -386,7 +386,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS30
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS30
 :CS30 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Guitarra ;
      :designacao "Curso_Supletivo_de_Guitarra" ;
@@ -396,7 +396,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB9
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB9
 :CB9 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Harpa ;
      :designacao "Curso_Básico_de_Harpa" ;
@@ -406,7 +406,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS31
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS31
 :CS31 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Harpa ;
      :designacao "Curso_Supletivo_de_Harpa" ;
@@ -416,7 +416,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB10
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB10
 :CB10 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Oboé ;
      :designacao "Curso_Básico_de_Oboé" ;
@@ -426,7 +426,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS32
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS32
 :CS32 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Oboé ;
      :designacao "Curso_Supletivo_de_Oboé" ;
@@ -436,7 +436,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB11
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB11
 :CB11 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Orgão ;
      :designacao "Curso_Básico_de_Orgão" ;
@@ -446,7 +446,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS33
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS33
 :CS33 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Orgão ;
      :designacao "Curso_Supletivo_de_Orgão" ;
@@ -456,7 +456,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB12
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB12
 :CB12 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Percussão ;
      :designacao "Curso_Básico_de_Percussão" ;
@@ -466,7 +466,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS34
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS34
 :CS34 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Percussão ;
      :designacao "Curso_Supletivo_de_Percussão" ;
@@ -476,7 +476,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB13
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB13
 :CB13 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Piano ;
      :designacao "Curso_Básico_de_Piano" ;
@@ -486,7 +486,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS35
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS35
 :CS35 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Piano ;
      :designacao "Curso_Supletivo_de_Piano" ;
@@ -496,7 +496,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB14
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB14
 :CB14 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Saxofone ;
      :designacao "Curso_Básico_de_Saxofone" ;
@@ -506,7 +506,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS36
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS36
 :CS36 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Saxofone ;
      :designacao "Curso_Supletivo_de_Saxofone" ;
@@ -516,7 +516,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB15
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB15
 :CB15 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Trombone ;
      :designacao "Curso_Básico_de_Trombone" ;
@@ -526,7 +526,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS37
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS37
 :CS37 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Trombone ;
      :designacao "Curso_Supletivo_de_Trombone" ;
@@ -536,7 +536,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB16
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB16
 :CB16 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Trompa ;
      :designacao "Curso_Básico_de_Trompa" ;
@@ -546,7 +546,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS38
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS38
 :CS38 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Trompa ;
      :designacao "Curso_Supletivo_de_Trompa" ;
@@ -556,7 +556,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB17
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB17
 :CB17 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Trompete ;
      :designacao "Curso_Básico_de_Trompete" ;
@@ -566,7 +566,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS39
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS39
 :CS39 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Trompete ;
      :designacao "Curso_Supletivo_de_Trompete" ;
@@ -576,7 +576,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB18
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB18
 :CB18 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Tuba ;
      :designacao "Curso_Básico_de_Tuba" ;
@@ -586,7 +586,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS40
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS40
 :CS40 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Tuba ;
      :designacao "Curso_Supletivo_de_Tuba" ;
@@ -596,7 +596,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB19
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB19
 :CB19 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Violoncelo ;
      :designacao "Curso_Básico_de_Violoncelo" ;
@@ -606,7 +606,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS41
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS41
 :CS41 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Violoncelo ;
      :designacao "Curso_Supletivo_de_Violoncelo" ;
@@ -616,7 +616,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB20
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB20
 :CB20 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Violino ;
      :designacao "Curso_Básico_de_Violino" ;
@@ -626,7 +626,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS42
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS42
 :CS42 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Violino ;
      :designacao "Curso_Supletivo_de_Violino" ;
@@ -636,7 +636,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB21
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB21
 :CB21 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Viola_de_Arco ;
      :designacao "Curso_Básico_de_Viola_de_Arco" ;
@@ -646,7 +646,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS43
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS43
 :CS43 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Viola_de_Arco ;
      :designacao "Curso_Supletivo_de_Viola_de_Arco" ;
@@ -656,7 +656,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CB22
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CB22
 :CB22 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Bandolim ;
      :designacao "Curso_Básico_de_Bandolim" ;
@@ -666,7 +666,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#CS44
+###  http://rpcw.di.uminho.pt/2024/dbMusica#CS44
 :CS44 rdf:type owl:NamedIndividual ;
      :ensinaIntrumento :Bandolim ;
      :designacao "Curso_Supletivo_de_Bandolim" ;
@@ -676,7 +676,7 @@
 
 
     
-###  http://rpcw.di.uminho.pt/2024/musica#A1510
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A1510
 :A1510 rdf:type owl:NamedIndividual ;
         :temCurso :CB8 ;
         :temInstrumento :Guitarra ;
@@ -685,7 +685,7 @@
         :idAluno "A1510" ;
         :nome "ADEMAR_FONTES_DE_MAGALHAES_GONCALVES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A32597
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A32597
 :A32597 rdf:type owl:NamedIndividual ;
         :temCurso :CS19 ;
         :temInstrumento :Violoncelo ;
@@ -694,7 +694,7 @@
         :idAluno "A32597" ;
         :nome "ADERITO_NELSON_MIRANDA_DE_OLIVEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A36539
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A36539
 :A36539 rdf:type owl:NamedIndividual ;
         :temCurso :CS21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -703,7 +703,7 @@
         :idAluno "A36539" ;
         :nome "ADMILSON_CESAR_ANDRADE_RODRIGUES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38165
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38165
 :A38165 rdf:type owl:NamedIndividual ;
         :temCurso :CB5 ;
         :temInstrumento :Fagote ;
@@ -712,7 +712,7 @@
         :idAluno "A38165" ;
         :nome "AFONSO_DELERUE_ARRIAGA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38176
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38176
 :A38176 rdf:type owl:NamedIndividual ;
         :temCurso :CB5 ;
         :temInstrumento :Fagote ;
@@ -721,7 +721,7 @@
         :idAluno "A38176" ;
         :nome "AGOSTINHO_MANUEL_ALVES_DA_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38196
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38196
 :A38196 rdf:type owl:NamedIndividual ;
         :temCurso :CB14 ;
         :temInstrumento :Saxofone ;
@@ -730,7 +730,7 @@
         :idAluno "A38196" ;
         :nome "ALEXANDRE_COELHO_CARVALHO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35271
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35271
 :A35271 rdf:type owl:NamedIndividual ;
         :temCurso :CS6 ;
         :temInstrumento :Flauta ;
@@ -739,7 +739,7 @@
         :idAluno "A35271" ;
         :nome "ALEXANDRE_JORGE_CAMELO_FARIA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38193
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38193
 :A38193 rdf:type owl:NamedIndividual ;
         :temCurso :CB17 ;
         :temInstrumento :Trompete ;
@@ -748,7 +748,7 @@
         :idAluno "A38193" ;
         :nome "ALEXANDRE_MANUEL_PEREIRA_DE_MIRANDA_PINTO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A18141
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A18141
 :A18141 rdf:type owl:NamedIndividual ;
         :temCurso :CB11 ;
         :temInstrumento :Orgão ;
@@ -757,7 +757,7 @@
         :idAluno "A18141" ;
         :nome "ALEXANDRE_MIGUEL_DA_COSTA_FERREIRA_DOS_SANTOS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38218
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38218
 :A38218 rdf:type owl:NamedIndividual ;
         :temCurso :CS13 ;
         :temInstrumento :Piano ;
@@ -766,7 +766,7 @@
         :idAluno "A38218" ;
         :nome "ALEXANDRINA_MARIA_FERREIRA_LEMOS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A36487
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A36487
 :A36487 rdf:type owl:NamedIndividual ;
         :temCurso :CB17 ;
         :temInstrumento :Trompete ;
@@ -775,7 +775,7 @@
         :idAluno "A36487" ;
         :nome "ALI_DOS_REIS_MOTA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35272
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35272
 :A35272 rdf:type owl:NamedIndividual ;
         :temCurso :CB10 ;
         :temInstrumento :Oboé ;
@@ -784,7 +784,7 @@
         :idAluno "A35272" ;
         :nome "ANA_LUISA_PARREIRA_NUNES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A27589
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A27589
 :A27589 rdf:type owl:NamedIndividual ;
         :temCurso :CS9 ;
         :temInstrumento :Harpa ;
@@ -793,7 +793,7 @@
         :idAluno "A27589" ;
         :nome "ANA_MARGARIDA_FIDALGO_PINHEIRO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A25073
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A25073
 :A25073 rdf:type owl:NamedIndividual ;
         :temCurso :CS19 ;
         :temInstrumento :Violoncelo ;
@@ -802,7 +802,7 @@
         :idAluno "A25073" ;
         :nome "ANA_MARGARIDA_LIMA_ALEM" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38169
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38169
 :A38169 rdf:type owl:NamedIndividual ;
         :temCurso :CB4 ;
         :temInstrumento :Eufónio ;
@@ -811,7 +811,7 @@
         :idAluno "A38169" ;
         :nome "ANDRE_ABILIO_NUNES_ROCHA_RODRIGUES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33822
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33822
 :A33822 rdf:type owl:NamedIndividual ;
         :temCurso :CB1 ;
         :temInstrumento :Clarinete ;
@@ -820,7 +820,7 @@
         :idAluno "A33822" ;
         :nome "ANDRE_FERNANDES_MARTINS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38214
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38214
 :A38214 rdf:type owl:NamedIndividual ;
         :temCurso :CB9 ;
         :temInstrumento :Harpa ;
@@ -829,7 +829,7 @@
         :idAluno "A38214" ;
         :nome "ANDRE_FILIPE_DE_SOUSA_VIVEIROS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35274
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35274
 :A35274 rdf:type owl:NamedIndividual ;
         :temCurso :CS21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -838,7 +838,7 @@
         :idAluno "A35274" ;
         :nome "ANDRE_FILIPE_OLIVEIRA_MARTINS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A29871
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A29871
 :A29871 rdf:type owl:NamedIndividual ;
         :temCurso :CB14 ;
         :temInstrumento :Saxofone ;
@@ -847,7 +847,7 @@
         :idAluno "A29871" ;
         :nome "ANDRE_LEITE_FERREIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38215
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38215
 :A38215 rdf:type owl:NamedIndividual ;
         :temCurso :CB16 ;
         :temInstrumento :Trompa ;
@@ -856,7 +856,7 @@
         :idAluno "A38215" ;
         :nome "ANDRE_RIBEIRO_RODRIGUES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38117
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38117
 :A38117 rdf:type owl:NamedIndividual ;
         :temCurso :CS19 ;
         :temInstrumento :Violoncelo ;
@@ -865,7 +865,7 @@
         :idAluno "A38117" ;
         :nome "ANTONIO_ANDRE_MARQUES_RIBEIRO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35277
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35277
 :A35277 rdf:type owl:NamedIndividual ;
         :temCurso :CS2 ;
         :temInstrumento :Contrabaixo ;
@@ -874,7 +874,7 @@
         :idAluno "A35277" ;
         :nome "ANTONIO_MANUEL_MARTINS_PINTO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35278
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35278
 :A35278 rdf:type owl:NamedIndividual ;
         :temCurso :CB2 ;
         :temInstrumento :Contrabaixo ;
@@ -883,7 +883,7 @@
         :idAluno "A35278" ;
         :nome "ANTONIO_MANUEL_RODRIGUES_FERNANDES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38138
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38138
 :A38138 rdf:type owl:NamedIndividual ;
         :temCurso :CB22 ;
         :temInstrumento :Bandolim ;
@@ -892,7 +892,7 @@
         :idAluno "A38138" ;
         :nome "ANTONIO_NUNO_BACELAR_MARTINS_BARREIRO_COVAS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35280
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35280
 :A35280 rdf:type owl:NamedIndividual ;
         :temCurso :CB5 ;
         :temInstrumento :Fagote ;
@@ -901,7 +901,7 @@
         :idAluno "A35280" ;
         :nome "ANTONIO_RICARDO_PEREIRA_GONCALVES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33057
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33057
 :A33057 rdf:type owl:NamedIndividual ;
         :temCurso :CB8 ;
         :temInstrumento :Guitarra ;
@@ -910,7 +910,7 @@
         :idAluno "A33057" ;
         :nome "ANTONIO_RUI_MIRANDA_DE_LEMOS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38143
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38143
 :A38143 rdf:type owl:NamedIndividual ;
         :temCurso :CB3 ;
         :temInstrumento :Corne_Inglês ;
@@ -919,7 +919,7 @@
         :idAluno "A38143" ;
         :nome "ANTONIO_SERGIO_MATOS_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A30166
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A30166
 :A30166 rdf:type owl:NamedIndividual ;
         :temCurso :CB17 ;
         :temInstrumento :Trompete ;
@@ -928,7 +928,7 @@
         :idAluno "A30166" ;
         :nome "ANTONIO_TIAGO_MORGADO_PEREIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A36971
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A36971
 :A36971 rdf:type owl:NamedIndividual ;
         :temCurso :CB22 ;
         :temInstrumento :Bandolim ;
@@ -937,7 +937,7 @@
         :idAluno "A36971" ;
         :nome "AUGUSTO_JORGE_PEREIRA_DA_COSTA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38132
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38132
 :A38132 rdf:type owl:NamedIndividual ;
         :temCurso :CS21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -946,7 +946,7 @@
         :idAluno "A38132" ;
         :nome "AVELINO_JOSE_DA_COSTA_REGO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33140
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33140
 :A33140 rdf:type owl:NamedIndividual ;
         :temCurso :CS7 ;
         :temInstrumento :Fliscorne ;
@@ -955,7 +955,7 @@
         :idAluno "A33140" ;
         :nome "AVELINO_RODRIGO_ARAUJO_SEMELHE_DE_SOUSA_PINTO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33141
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33141
 :A33141 rdf:type owl:NamedIndividual ;
         :temCurso :CB7 ;
         :temInstrumento :Fliscorne ;
@@ -964,7 +964,7 @@
         :idAluno "A33141" ;
         :nome "BARBARA_ALEXANDRA_EUSEBIO_FREITAS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33291
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33291
 :A33291 rdf:type owl:NamedIndividual ;
         :temCurso :CB8 ;
         :temInstrumento :Guitarra ;
@@ -973,7 +973,7 @@
         :idAluno "A33291" ;
         :nome "BARBARA_SOFIA_ARAUJO_DA_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33142
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33142
 :A33142 rdf:type owl:NamedIndividual ;
         :temCurso :CS1 ;
         :temInstrumento :Clarinete ;
@@ -982,7 +982,7 @@
         :idAluno "A33142" ;
         :nome "BRUNO_CESAR_PEREIRA_DA_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A20044
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A20044
 :A20044 rdf:type owl:NamedIndividual ;
         :temCurso :CB9 ;
         :temInstrumento :Harpa ;
@@ -991,7 +991,7 @@
         :idAluno "A20044" ;
         :nome "BRUNO_DE_ALMEIDA_RAMOS_PEREIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35283
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35283
 :A35283 rdf:type owl:NamedIndividual ;
         :temCurso :CB13 ;
         :temInstrumento :Piano ;
@@ -1000,7 +1000,7 @@
         :idAluno "A35283" ;
         :nome "BRUNO_EDGAR_BERNARDO_TEIXEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35284
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35284
 :A35284 rdf:type owl:NamedIndividual ;
         :temCurso :CS8 ;
         :temInstrumento :Guitarra ;
@@ -1009,7 +1009,7 @@
         :idAluno "A35284" ;
         :nome "BRUNO_EMANUEL_TEIXEIRA_DE_CASTRO_ARAUJO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38156
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38156
 :A38156 rdf:type owl:NamedIndividual ;
         :temCurso :CB6 ;
         :temInstrumento :Flauta ;
@@ -1018,7 +1018,7 @@
         :idAluno "A38156" ;
         :nome "BRUNO_FILIPE_DA_COSTA_HERMENEGILDO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35285
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35285
 :A35285 rdf:type owl:NamedIndividual ;
         :temCurso :CB8 ;
         :temInstrumento :Guitarra ;
@@ -1027,7 +1027,7 @@
         :idAluno "A35285" ;
         :nome "BRUNO_GABRIEL_LEAL_MACHADO_DOS_SANTOS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A36422
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A36422
 :A36422 rdf:type owl:NamedIndividual ;
         :temCurso :CB20 ;
         :temInstrumento :Violino ;
@@ -1036,7 +1036,7 @@
         :idAluno "A36422" ;
         :nome "BRUNO_JOSE_DE_MACEDO_SOARES_AMOR" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33143
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33143
 :A33143 rdf:type owl:NamedIndividual ;
         :temCurso :CB3 ;
         :temInstrumento :Corne_Inglês ;
@@ -1045,7 +1045,7 @@
         :idAluno "A33143" ;
         :nome "BRUNO_MIGUEL_CAMPOS_RODRIGUES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33145
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33145
 :A33145 rdf:type owl:NamedIndividual ;
         :temCurso :CB21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -1054,7 +1054,7 @@
         :idAluno "A33145" ;
         :nome "BRUNO_MIGUEL_FLORES_DIAMANTINO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33146
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33146
 :A33146 rdf:type owl:NamedIndividual ;
         :temCurso :CS18 ;
         :temInstrumento :Tuba ;
@@ -1063,7 +1063,7 @@
         :idAluno "A33146" ;
         :nome "BRUNO_MIGUEL_MAGALHAES_AZEVEDO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33148
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33148
 :A33148 rdf:type owl:NamedIndividual ;
         :temCurso :CB15 ;
         :temInstrumento :Trombone ;
@@ -1072,7 +1072,7 @@
         :idAluno "A33148" ;
         :nome "BRUNO_MIGUEL_TEIXEIRA_PAIVA_DE_FARIA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38124
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38124
 :A38124 rdf:type owl:NamedIndividual ;
         :temCurso :CB22 ;
         :temInstrumento :Bandolim ;
@@ -1081,7 +1081,7 @@
         :idAluno "A38124" ;
         :nome "BRUNO_RICARDO_CUNHA_MAGALHAES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A30176
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A30176
 :A30176 rdf:type owl:NamedIndividual ;
         :temCurso :CB18 ;
         :temInstrumento :Tuba ;
@@ -1090,7 +1090,7 @@
         :idAluno "A30176" ;
         :nome "BRUNO_RICARDO_DUARTE_MAGALHAES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35808
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35808
 :A35808 rdf:type owl:NamedIndividual ;
         :temCurso :CS7 ;
         :temInstrumento :Fliscorne ;
@@ -1099,7 +1099,7 @@
         :idAluno "A35808" ;
         :nome "CANDIDO_MIGUEL_REBELO_BARROS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38126
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38126
 :A38126 rdf:type owl:NamedIndividual ;
         :temCurso :CS16 ;
         :temInstrumento :Trompa ;
@@ -1108,7 +1108,7 @@
         :idAluno "A38126" ;
         :nome "CARLOS_ALFREDO_MACIEIRA_DE_FARIA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33689
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33689
 :A33689 rdf:type owl:NamedIndividual ;
         :temCurso :CB2 ;
         :temInstrumento :Contrabaixo ;
@@ -1117,7 +1117,7 @@
         :idAluno "A33689" ;
         :nome "CARLOS_ANDRE_BRITO_RIBEIRO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38125
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38125
 :A38125 rdf:type owl:NamedIndividual ;
         :temCurso :CS8 ;
         :temInstrumento :Guitarra ;
@@ -1126,7 +1126,7 @@
         :idAluno "A38125" ;
         :nome "CARLOS_CESAR_MADUREIRA_ROMANO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A24654
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A24654
 :A24654 rdf:type owl:NamedIndividual ;
         :temCurso :CS14 ;
         :temInstrumento :Saxofone ;
@@ -1135,7 +1135,7 @@
         :idAluno "A24654" ;
         :nome "CARLOS_DE_SOUSA_CABRAL_BRANDAO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A20021
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A20021
 :A20021 rdf:type owl:NamedIndividual ;
         :temCurso :CB19 ;
         :temInstrumento :Violoncelo ;
@@ -1144,7 +1144,7 @@
         :idAluno "A20021" ;
         :nome "CARLOS_JOSE_DA_CUNHA_RIBEIRO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35291
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35291
 :A35291 rdf:type owl:NamedIndividual ;
         :temCurso :CB15 ;
         :temInstrumento :Trombone ;
@@ -1153,7 +1153,7 @@
         :idAluno "A35291" ;
         :nome "CARLOS_MIGUEL_TAVARES_LOPES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A34640
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A34640
 :A34640 rdf:type owl:NamedIndividual ;
         :temCurso :CS3 ;
         :temInstrumento :Corne_Inglês ;
@@ -1162,7 +1162,7 @@
         :idAluno "A34640" ;
         :nome "CARLOS_PRUDENCIO_DO_ESPIRITO_CRISOSTOMO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38207
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38207
 :A38207 rdf:type owl:NamedIndividual ;
         :temCurso :CS2 ;
         :temInstrumento :Contrabaixo ;
@@ -1171,7 +1171,7 @@
         :idAluno "A38207" ;
         :nome "CATARINA_ISABEL_DE_OLIVEIRA_MATEUS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A32010
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A32010
 :A32010 rdf:type owl:NamedIndividual ;
         :temCurso :CS10 ;
         :temInstrumento :Oboé ;
@@ -1180,7 +1180,7 @@
         :idAluno "A32010" ;
         :nome "CATARINA_SOFIA_MARTINHO_LUIS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35052
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35052
 :A35052 rdf:type owl:NamedIndividual ;
         :temCurso :CB2 ;
         :temInstrumento :Contrabaixo ;
@@ -1189,7 +1189,7 @@
         :idAluno "A35052" ;
         :nome "CESAR_FILIPE_DA_CRUZ_GOMES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35440
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35440
 :A35440 rdf:type owl:NamedIndividual ;
         :temCurso :CS18 ;
         :temInstrumento :Tuba ;
@@ -1198,7 +1198,7 @@
         :idAluno "A35440" ;
         :nome "DANIEL_BARBOSA_ALVES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A32648
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A32648
 :A32648 rdf:type owl:NamedIndividual ;
         :temCurso :CS5 ;
         :temInstrumento :Fagote ;
@@ -1207,7 +1207,7 @@
         :idAluno "A32648" ;
         :nome "DANIEL_FILIPE_PERES_FERREIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33152
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33152
 :A33152 rdf:type owl:NamedIndividual ;
         :temCurso :CB20 ;
         :temInstrumento :Violino ;
@@ -1216,7 +1216,7 @@
         :idAluno "A33152" ;
         :nome "DANIEL_RICARDO_DE_CASTRO_MENDES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38211
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38211
 :A38211 rdf:type owl:NamedIndividual ;
         :temCurso :CS12 ;
         :temInstrumento :Percussão ;
@@ -1225,7 +1225,7 @@
         :idAluno "A38211" ;
         :nome "DANIEL_TORRES_GONCALVES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38210
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38210
 :A38210 rdf:type owl:NamedIndividual ;
         :temCurso :CB5 ;
         :temInstrumento :Fagote ;
@@ -1234,7 +1234,7 @@
         :idAluno "A38210" ;
         :nome "DANIELA_CRISTINA_GARCIA_TEIXEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A22854
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A22854
 :A22854 rdf:type owl:NamedIndividual ;
         :temCurso :CB5 ;
         :temInstrumento :Fagote ;
@@ -1243,7 +1243,7 @@
         :idAluno "A22854" ;
         :nome "DAVI_CARNEIRO_PEREIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35293
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35293
 :A35293 rdf:type owl:NamedIndividual ;
         :temCurso :CB6 ;
         :temInstrumento :Flauta ;
@@ -1252,7 +1252,7 @@
         :idAluno "A35293" ;
         :nome "DAVID_DANIEL_CARDOSO_DE_OLIVEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35294
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35294
 :A35294 rdf:type owl:NamedIndividual ;
         :temCurso :CB20 ;
         :temInstrumento :Violino ;
@@ -1261,7 +1261,7 @@
         :idAluno "A35294" ;
         :nome "DIAMANTINO_JOSE_MADEIRA_ABOBELEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38166
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38166
 :A38166 rdf:type owl:NamedIndividual ;
         :temCurso :CB19 ;
         :temInstrumento :Violoncelo ;
@@ -1270,7 +1270,7 @@
         :idAluno "A38166" ;
         :nome "DIOGO_FILIPE_DA_SILVA_CARDOSO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38164
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38164
 :A38164 rdf:type owl:NamedIndividual ;
         :temCurso :CS8 ;
         :temInstrumento :Guitarra ;
@@ -1279,7 +1279,7 @@
         :idAluno "A38164" ;
         :nome "DIOGO_PAULO_DA_FONTE_LAPA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38167
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38167
 :A38167 rdf:type owl:NamedIndividual ;
         :temCurso :CS22 ;
         :temInstrumento :Bandolim ;
@@ -1288,7 +1288,7 @@
         :idAluno "A38167" ;
         :nome "DUARTE_ALEXANDRE_DA_CUNHA_ALVES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33155
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33155
 :A33155 rdf:type owl:NamedIndividual ;
         :temCurso :CS1 ;
         :temInstrumento :Clarinete ;
@@ -1297,7 +1297,7 @@
         :idAluno "A33155" ;
         :nome "DUARTE_FILIPE_AFONSO_CHAVES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35298
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35298
 :A35298 rdf:type owl:NamedIndividual ;
         :temCurso :CB3 ;
         :temInstrumento :Corne_Inglês ;
@@ -1306,7 +1306,7 @@
         :idAluno "A35298" ;
         :nome "DUARTE_NUNO_MALHEIRO_DE_BARREIRO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38190
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38190
 :A38190 rdf:type owl:NamedIndividual ;
         :temCurso :CS15 ;
         :temInstrumento :Trombone ;
@@ -1315,7 +1315,7 @@
         :idAluno "A38190" ;
         :nome "ELISEU_CARNEIRO_DOS_SANTOS_ROCHA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35300
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35300
 :A35300 rdf:type owl:NamedIndividual ;
         :temCurso :CB10 ;
         :temInstrumento :Oboé ;
@@ -1324,7 +1324,7 @@
         :idAluno "A35300" ;
         :nome "EMANUEL_CERDEIRA_MESQUITA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A30305
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A30305
 :A30305 rdf:type owl:NamedIndividual ;
         :temCurso :CS19 ;
         :temInstrumento :Violoncelo ;
@@ -1333,7 +1333,7 @@
         :idAluno "A30305" ;
         :nome "EMANUEL_JOSE_ANTUNES_FERNANDES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A36757
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A36757
 :A36757 rdf:type owl:NamedIndividual ;
         :temCurso :CS8 ;
         :temInstrumento :Guitarra ;
@@ -1342,7 +1342,7 @@
         :idAluno "A36757" ;
         :nome "ERNESTO_MANUEL_DA_SILVA_LOPES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33157
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33157
 :A33157 rdf:type owl:NamedIndividual ;
         :temCurso :CS1 ;
         :temInstrumento :Clarinete ;
@@ -1351,7 +1351,7 @@
         :idAluno "A33157" ;
         :nome "EURICO_MANUEL_FOLGADO_AFONSO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A27608
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A27608
 :A27608 rdf:type owl:NamedIndividual ;
         :temCurso :CB15 ;
         :temInstrumento :Trombone ;
@@ -1360,7 +1360,7 @@
         :idAluno "A27608" ;
         :nome "EURICO_MANUEL_TELES_MORAIS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35302
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35302
 :A35302 rdf:type owl:NamedIndividual ;
         :temCurso :CB11 ;
         :temInstrumento :Orgão ;
@@ -1369,7 +1369,7 @@
         :idAluno "A35302" ;
         :nome "FABIO_ROBERTO_LEITE_MATOS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33158
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33158
 :A33158 rdf:type owl:NamedIndividual ;
         :temCurso :CS5 ;
         :temInstrumento :Fagote ;
@@ -1378,7 +1378,7 @@
         :idAluno "A33158" ;
         :nome "FAUSTO_MIGUEL_PACHECO_FARIA_VIANA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35465
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35465
 :A35465 rdf:type owl:NamedIndividual ;
         :temCurso :CB19 ;
         :temInstrumento :Violoncelo ;
@@ -1387,7 +1387,7 @@
         :idAluno "A35465" ;
         :nome "FERNANDO_ANTONIO_ALVES_LOPES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33858
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33858
 :A33858 rdf:type owl:NamedIndividual ;
         :temCurso :CB13 ;
         :temInstrumento :Piano ;
@@ -1396,7 +1396,7 @@
         :idAluno "A33858" ;
         :nome "FERNANDO_JORGE_PINTO_LIMA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A26737
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A26737
 :A26737 rdf:type owl:NamedIndividual ;
         :temCurso :CS16 ;
         :temInstrumento :Trompa ;
@@ -1405,7 +1405,7 @@
         :idAluno "A26737" ;
         :nome "FERNANDO_MIGUEL_SOUSA_LISBOA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A30187
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A30187
 :A30187 rdf:type owl:NamedIndividual ;
         :temCurso :CS9 ;
         :temInstrumento :Harpa ;
@@ -1414,7 +1414,7 @@
         :idAluno "A30187" ;
         :nome "FERNANDO_SERGIO_MADALENO_PEREIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35303
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35303
 :A35303 rdf:type owl:NamedIndividual ;
         :temCurso :CB1 ;
         :temInstrumento :Clarinete ;
@@ -1423,7 +1423,7 @@
         :idAluno "A35303" ;
         :nome "FILIPE_ANTONIO_GONCALVES_DA_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A36445
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A36445
 :A36445 rdf:type owl:NamedIndividual ;
         :temCurso :CB22 ;
         :temInstrumento :Bandolim ;
@@ -1432,7 +1432,7 @@
         :idAluno "A36445" ;
         :nome "FILIPE_BARROSO_DE_OLIVEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38595
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38595
 :A38595 rdf:type owl:NamedIndividual ;
         :temCurso :CB2 ;
         :temInstrumento :Contrabaixo ;
@@ -1441,7 +1441,7 @@
         :idAluno "A38595" ;
         :nome "FILIPE_GONCALO_GONCALVES_DA_COSTA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38187
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38187
 :A38187 rdf:type owl:NamedIndividual ;
         :temCurso :CB10 ;
         :temInstrumento :Oboé ;
@@ -1450,7 +1450,7 @@
         :idAluno "A38187" ;
         :nome "FLAVIO_MIGUEL_XAVIER_FERREIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A36424
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A36424
 :A36424 rdf:type owl:NamedIndividual ;
         :temCurso :CB11 ;
         :temInstrumento :Orgão ;
@@ -1459,7 +1459,7 @@
         :idAluno "A36424" ;
         :nome "FRANCISCO_EURICO_PINTO_CORTEZ_MARTINS_LEITE" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35308
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35308
 :A35308 rdf:type owl:NamedIndividual ;
         :temCurso :CB21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -1468,7 +1468,7 @@
         :idAluno "A35308" ;
         :nome "FRANCISCO_JOSE_MAIO_LEITE" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35443
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35443
 :A35443 rdf:type owl:NamedIndividual ;
         :temCurso :CS22 ;
         :temInstrumento :Bandolim ;
@@ -1477,7 +1477,7 @@
         :idAluno "A35443" ;
         :nome "FRANCISCO_JOSE_MARTINS_GOMES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A27616
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A27616
 :A27616 rdf:type owl:NamedIndividual ;
         :temCurso :CB21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -1486,7 +1486,7 @@
         :idAluno "A27616" ;
         :nome "FRANCISCO_JOSE_PRATA_DA_PAZ" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38163
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38163
 :A38163 rdf:type owl:NamedIndividual ;
         :temCurso :CB2 ;
         :temInstrumento :Contrabaixo ;
@@ -1495,7 +1495,7 @@
         :idAluno "A38163" ;
         :nome "GASPAR_AUGUSTO_SIMOES_CORREIA_VIEIRA_LEITE" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A39288
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A39288
 :A39288 rdf:type owl:NamedIndividual ;
         :temCurso :CS15 ;
         :temInstrumento :Trombone ;
@@ -1504,7 +1504,7 @@
         :idAluno "A39288" ;
         :nome "GENILDO_SOARES_NEVES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33162
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33162
 :A33162 rdf:type owl:NamedIndividual ;
         :temCurso :CS5 ;
         :temInstrumento :Fagote ;
@@ -1513,7 +1513,7 @@
         :idAluno "A33162" ;
         :nome "GONCALO_LEAL_MACHADO_RIBEIRO_PINTO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35311
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35311
 :A35311 rdf:type owl:NamedIndividual ;
         :temCurso :CS22 ;
         :temInstrumento :Bandolim ;
@@ -1522,7 +1522,7 @@
         :idAluno "A35311" ;
         :nome "GONCALO_LUIS_MALHEIRO_DE_OLIVEIRA_NOVAIS_MACHADO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A39508
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A39508
 :A39508 rdf:type owl:NamedIndividual ;
         :temCurso :CS5 ;
         :temInstrumento :Fagote ;
@@ -1531,7 +1531,7 @@
         :idAluno "A39508" ;
         :nome "GONCALO_MANUEL_CORREIA_CALHEIROS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33163
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33163
 :A33163 rdf:type owl:NamedIndividual ;
         :temCurso :CS21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -1540,7 +1540,7 @@
         :idAluno "A33163" ;
         :nome "GONCALO_PAULO_CUNHA_CARDOSO_FERREIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38174
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38174
 :A38174 rdf:type owl:NamedIndividual ;
         :temCurso :CS12 ;
         :temInstrumento :Percussão ;
@@ -1549,7 +1549,7 @@
         :idAluno "A38174" ;
         :nome "GUILHERME_REIS_BARBOSA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33165
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33165
 :A33165 rdf:type owl:NamedIndividual ;
         :temCurso :CS13 ;
         :temInstrumento :Piano ;
@@ -1558,7 +1558,7 @@
         :idAluno "A33165" ;
         :nome "HELDER_ARTUR_PEIXOTO_MAGALHAES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35312
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35312
 :A35312 rdf:type owl:NamedIndividual ;
         :temCurso :CS13 ;
         :temInstrumento :Piano ;
@@ -1567,7 +1567,7 @@
         :idAluno "A35312" ;
         :nome "HELDER_FILIPE_DE_CASTRO_MARQUES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38185
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38185
 :A38185 rdf:type owl:NamedIndividual ;
         :temCurso :CB6 ;
         :temInstrumento :Flauta ;
@@ -1576,7 +1576,7 @@
         :idAluno "A38185" ;
         :nome "HELDER_JOSE_FERREIRA_BARBOSA_RIBEIRO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A39503
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A39503
 :A39503 rdf:type owl:NamedIndividual ;
         :temCurso :CS10 ;
         :temInstrumento :Oboé ;
@@ -1585,7 +1585,7 @@
         :idAluno "A39503" ;
         :nome "HELDER_NUNO_MARTINS_DO_VALE_TOME" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A36758
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A36758
 :A36758 rdf:type owl:NamedIndividual ;
         :temCurso :CS21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -1594,7 +1594,7 @@
         :idAluno "A36758" ;
         :nome "HUGO_ALEXANDRE_PEREIRA_TRIUNFANTE_MARTINS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38197
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38197
 :A38197 rdf:type owl:NamedIndividual ;
         :temCurso :CS8 ;
         :temInstrumento :Guitarra ;
@@ -1603,7 +1603,7 @@
         :idAluno "A38197" ;
         :nome "HUGO_ALEXANDRE_SOBREIRO_DE_SEIXAS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33272
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33272
 :A33272 rdf:type owl:NamedIndividual ;
         :temCurso :CB9 ;
         :temInstrumento :Harpa ;
@@ -1612,7 +1612,7 @@
         :idAluno "A33272" ;
         :nome "HUGO_ANDRE_PEIXOTO_FREITAS_PEREIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35315
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35315
 :A35315 rdf:type owl:NamedIndividual ;
         :temCurso :CS6 ;
         :temInstrumento :Flauta ;
@@ -1621,7 +1621,7 @@
         :idAluno "A35315" ;
         :nome "HUGO_EMANUEL_QUEIROS_TEIXEIRA_DA_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38202
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38202
 :A38202 rdf:type owl:NamedIndividual ;
         :temCurso :CB6 ;
         :temInstrumento :Flauta ;
@@ -1630,7 +1630,7 @@
         :idAluno "A38202" ;
         :nome "HUGO_FILIPE_NASCIMENTO_PEREIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35316
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35316
 :A35316 rdf:type owl:NamedIndividual ;
         :temCurso :CB15 ;
         :temInstrumento :Trombone ;
@@ -1639,7 +1639,7 @@
         :idAluno "A35316" ;
         :nome "HUGO_GUILHERME_DOS_SANTOS_RIGOR" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35395
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35395
 :A35395 rdf:type owl:NamedIndividual ;
         :temCurso :CB20 ;
         :temInstrumento :Violino ;
@@ -1648,7 +1648,7 @@
         :idAluno "A35395" ;
         :nome "HUGO_JOSE_FERNANDES_CARVALHO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38204
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38204
 :A38204 rdf:type owl:NamedIndividual ;
         :temCurso :CB7 ;
         :temInstrumento :Fliscorne ;
@@ -1657,7 +1657,7 @@
         :idAluno "A38204" ;
         :nome "HUGO_JOSE_PEREIRA_PACHECO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A26208
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A26208
 :A26208 rdf:type owl:NamedIndividual ;
         :temCurso :CB22 ;
         :temInstrumento :Bandolim ;
@@ -1666,7 +1666,7 @@
         :idAluno "A26208" ;
         :nome "IGOR_MURILO_DE_ALMEIDA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33703
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33703
 :A33703 rdf:type owl:NamedIndividual ;
         :temCurso :CB22 ;
         :temInstrumento :Bandolim ;
@@ -1675,7 +1675,7 @@
         :idAluno "A33703" ;
         :nome "ISABEL_MARIA_ROSENDO_CARDOSO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38134
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38134
 :A38134 rdf:type owl:NamedIndividual ;
         :temCurso :CS17 ;
         :temInstrumento :Trompete ;
@@ -1684,7 +1684,7 @@
         :idAluno "A38134" ;
         :nome "IVO_MANUEL_DANTAS_MONTEIRO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35318
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35318
 :A35318 rdf:type owl:NamedIndividual ;
         :temCurso :CS14 ;
         :temInstrumento :Saxofone ;
@@ -1693,7 +1693,7 @@
         :idAluno "A35318" ;
         :nome "JASON_PETER_COSTA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33168
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33168
 :A33168 rdf:type owl:NamedIndividual ;
         :temCurso :CB9 ;
         :temInstrumento :Harpa ;
@@ -1702,7 +1702,7 @@
         :idAluno "A33168" ;
         :nome "JOANA_SOUTO_DE_MIRANDA_GONZALEZ" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35319
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35319
 :A35319 rdf:type owl:NamedIndividual ;
         :temCurso :CS19 ;
         :temInstrumento :Violoncelo ;
@@ -1711,7 +1711,7 @@
         :idAluno "A35319" ;
         :nome "JOAO_ALEXANDRE_VAZ_OLIVEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35320
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35320
 :A35320 rdf:type owl:NamedIndividual ;
         :temCurso :CB19 ;
         :temInstrumento :Violoncelo ;
@@ -1720,7 +1720,7 @@
         :idAluno "A35320" ;
         :nome "JOAO_ANTONIO_LAVRADOR_VILANOVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A32753
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A32753
 :A32753 rdf:type owl:NamedIndividual ;
         :temCurso :CB5 ;
         :temInstrumento :Fagote ;
@@ -1729,7 +1729,7 @@
         :idAluno "A32753" ;
         :nome "JOAO_ARNALDO_FREITAS_DE_ABREU" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38180
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38180
 :A38180 rdf:type owl:NamedIndividual ;
         :temCurso :CS7 ;
         :temInstrumento :Fliscorne ;
@@ -1738,7 +1738,7 @@
         :idAluno "A38180" ;
         :nome "JOAO_CARLOS_AZEVEDO_SALGADO_GUIMARAES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35321
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35321
 :A35321 rdf:type owl:NamedIndividual ;
         :temCurso :CB21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -1747,7 +1747,7 @@
         :idAluno "A35321" ;
         :nome "JOAO_FILIPE_FONTES_MACHADO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35322
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35322
 :A35322 rdf:type owl:NamedIndividual ;
         :temCurso :CS9 ;
         :temInstrumento :Harpa ;
@@ -1756,7 +1756,7 @@
         :idAluno "A35322" ;
         :nome "JOAO_GILBERTO_LAMARAO_DA_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38133
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38133
 :A38133 rdf:type owl:NamedIndividual ;
         :temCurso :CB15 ;
         :temInstrumento :Trombone ;
@@ -1765,7 +1765,7 @@
         :idAluno "A38133" ;
         :nome "JOAO_GONCALO_BOTICA_RIBEIRO_DA_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A30201
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A30201
 :A30201 rdf:type owl:NamedIndividual ;
         :temCurso :CS7 ;
         :temInstrumento :Fliscorne ;
@@ -1774,7 +1774,7 @@
         :idAluno "A30201" ;
         :nome "JOAO_GUILHERME_RABACA_CAMPOS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38123
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38123
 :A38123 rdf:type owl:NamedIndividual ;
         :temCurso :CB3 ;
         :temInstrumento :Corne_Inglês ;
@@ -1783,7 +1783,7 @@
         :idAluno "A38123" ;
         :nome "JOAO_MANUEL_DA_SILVA_SANCHES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A34935
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A34935
 :A34935 rdf:type owl:NamedIndividual ;
         :temCurso :CS1 ;
         :temInstrumento :Clarinete ;
@@ -1792,7 +1792,7 @@
         :idAluno "A34935" ;
         :nome "JOAO_MANUEL_DE_CAMPOS_GONCALVES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35323
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35323
 :A35323 rdf:type owl:NamedIndividual ;
         :temCurso :CB4 ;
         :temInstrumento :Eufónio ;
@@ -1801,7 +1801,7 @@
         :idAluno "A35323" ;
         :nome "JOAO_MARIO_MENDES_DE_OLIVEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33172
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33172
 :A33172 rdf:type owl:NamedIndividual ;
         :temCurso :CB21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -1810,7 +1810,7 @@
         :idAluno "A33172" ;
         :nome "JOAO_MIGUEL_RAPOSO_DA_SILVA_MARQUES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38191
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38191
 :A38191 rdf:type owl:NamedIndividual ;
         :temCurso :CB8 ;
         :temInstrumento :Guitarra ;
@@ -1819,7 +1819,7 @@
         :idAluno "A38191" ;
         :nome "JOAO_MIGUEL_RODRIGUES_BATISTA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38186
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38186
 :A38186 rdf:type owl:NamedIndividual ;
         :temCurso :CS22 ;
         :temInstrumento :Bandolim ;
@@ -1828,7 +1828,7 @@
         :idAluno "A38186" ;
         :nome "JOAO_NUNO_MARQUES_DOS_SANTOS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A39750
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A39750
 :A39750 rdf:type owl:NamedIndividual ;
         :temCurso :CB2 ;
         :temInstrumento :Contrabaixo ;
@@ -1837,7 +1837,7 @@
         :idAluno "A39750" ;
         :nome "JOAO_PAULO_BARBOSA_OLIVEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A22662
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A22662
 :A22662 rdf:type owl:NamedIndividual ;
         :temCurso :CS12 ;
         :temInstrumento :Percussão ;
@@ -1846,7 +1846,7 @@
         :idAluno "A22662" ;
         :nome "JOAO_PAULO_CARRAPATO_ALMEIDA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35325
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35325
 :A35325 rdf:type owl:NamedIndividual ;
         :temCurso :CS9 ;
         :temInstrumento :Harpa ;
@@ -1855,7 +1855,7 @@
         :idAluno "A35325" ;
         :nome "JOAO_PAULO_COELHO_GOMES_TEIXEIRA_E_OLIVEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A17855
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A17855
 :A17855 rdf:type owl:NamedIndividual ;
         :temCurso :CS5 ;
         :temInstrumento :Fagote ;
@@ -1864,7 +1864,7 @@
         :idAluno "A17855" ;
         :nome "JOAO_PAULO_DA_SILVA_CASTRO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38175
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38175
 :A38175 rdf:type owl:NamedIndividual ;
         :temCurso :CB6 ;
         :temInstrumento :Flauta ;
@@ -1873,7 +1873,7 @@
         :idAluno "A38175" ;
         :nome "JOAO_PAULO_DA_SILVA_GOMES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33173
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33173
 :A33173 rdf:type owl:NamedIndividual ;
         :temCurso :CS20 ;
         :temInstrumento :Violino ;
@@ -1882,7 +1882,7 @@
         :idAluno "A33173" ;
         :nome "JOAO_PAULO_MINHAVA_PEIXOTO_ASSIS_CARDOSO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A39622
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A39622
 :A39622 rdf:type owl:NamedIndividual ;
         :temCurso :CS19 ;
         :temInstrumento :Violoncelo ;
@@ -1891,7 +1891,7 @@
         :idAluno "A39622" ;
         :nome "JOAO_PAULO_SILVA_DE_VASCONCELOS_GUSMAO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33175
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33175
 :A33175 rdf:type owl:NamedIndividual ;
         :temCurso :CB22 ;
         :temInstrumento :Bandolim ;
@@ -1900,7 +1900,7 @@
         :idAluno "A33175" ;
         :nome "JOAO_PEDRO_BACAO_COELHO_DE_BARROS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A18938
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A18938
 :A18938 rdf:type owl:NamedIndividual ;
         :temCurso :CS13 ;
         :temInstrumento :Piano ;
@@ -1909,7 +1909,7 @@
         :idAluno "A18938" ;
         :nome "JOAO_PEDRO_BRITO_ANTUNES_GUIMARAES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33176
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33176
 :A33176 rdf:type owl:NamedIndividual ;
         :temCurso :CS20 ;
         :temInstrumento :Violino ;
@@ -1918,7 +1918,7 @@
         :idAluno "A33176" ;
         :nome "JOAO_PEDRO_GOMES_FERNANDES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35832
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35832
 :A35832 rdf:type owl:NamedIndividual ;
         :temCurso :CS12 ;
         :temInstrumento :Percussão ;
@@ -1927,7 +1927,7 @@
         :idAluno "A35832" ;
         :nome "JOAO_PEDRO_GONCALVES_DE_CARVALHO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38170
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38170
 :A38170 rdf:type owl:NamedIndividual ;
         :temCurso :CS17 ;
         :temInstrumento :Trompete ;
@@ -1936,7 +1936,7 @@
         :idAluno "A38170" ;
         :nome "JOAO_PEDRO_OLIVEIRA_PEREIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A36425
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A36425
 :A36425 rdf:type owl:NamedIndividual ;
         :temCurso :CS20 ;
         :temInstrumento :Violino ;
@@ -1945,7 +1945,7 @@
         :idAluno "A36425" ;
         :nome "JOAO_PEDRO_ROBALO_ESPINHO_PEREIRA_DA_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38212
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38212
 :A38212 rdf:type owl:NamedIndividual ;
         :temCurso :CB4 ;
         :temInstrumento :Eufónio ;
@@ -1954,7 +1954,7 @@
         :idAluno "A38212" ;
         :nome "JOAO_PEDRO_SILVA_ARAUJO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38220
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38220
 :A38220 rdf:type owl:NamedIndividual ;
         :temCurso :CB8 ;
         :temInstrumento :Guitarra ;
@@ -1963,7 +1963,7 @@
         :idAluno "A38220" ;
         :nome "JOAO_RAFAEL_FERREIRA_VELOSO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38199
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38199
 :A38199 rdf:type owl:NamedIndividual ;
         :temCurso :CB5 ;
         :temInstrumento :Fagote ;
@@ -1972,7 +1972,7 @@
         :idAluno "A38199" ;
         :nome "JOAO_RICARDO_DA_SILVA_CAMPOS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38198
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38198
 :A38198 rdf:type owl:NamedIndividual ;
         :temCurso :CB14 ;
         :temInstrumento :Saxofone ;
@@ -1981,7 +1981,7 @@
         :idAluno "A38198" ;
         :nome "JOAQUIM_MACHADO_GONCALVES_SAMPAIO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35328
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35328
 :A35328 rdf:type owl:NamedIndividual ;
         :temCurso :CB19 ;
         :temInstrumento :Violoncelo ;
@@ -1990,7 +1990,7 @@
         :idAluno "A35328" ;
         :nome "JOEL_ARAUJO_ROCHA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38157
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38157
 :A38157 rdf:type owl:NamedIndividual ;
         :temCurso :CS21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -1999,7 +1999,7 @@
         :idAluno "A38157" ;
         :nome "JOEL_HUMBERTO_DA_SILVA_BEIRAO_DO_VALE_CARVALHO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A20464
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A20464
 :A20464 rdf:type owl:NamedIndividual ;
         :temCurso :CS21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -2008,7 +2008,7 @@
         :idAluno "A20464" ;
         :nome "JOEL_TITO_DA_CRUZ_PINTO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38139
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38139
 :A38139 rdf:type owl:NamedIndividual ;
         :temCurso :CB7 ;
         :temInstrumento :Fliscorne ;
@@ -2017,7 +2017,7 @@
         :idAluno "A38139" ;
         :nome "JORGE_ALBERTO_FARIA_MIRANDA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35330
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35330
 :A35330 rdf:type owl:NamedIndividual ;
         :temCurso :CS13 ;
         :temInstrumento :Piano ;
@@ -2026,7 +2026,7 @@
         :idAluno "A35330" ;
         :nome "JORGE_ANDRE_ALVES_DE_MELO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A16409
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A16409
 :A16409 rdf:type owl:NamedIndividual ;
         :temCurso :CS10 ;
         :temInstrumento :Oboé ;
@@ -2035,7 +2035,7 @@
         :idAluno "A16409" ;
         :nome "JORGE_MANUEL_DE_CASTRO_MAIO_GOMES_DA_COSTA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33709
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33709
 :A33709 rdf:type owl:NamedIndividual ;
         :temCurso :CS12 ;
         :temInstrumento :Percussão ;
@@ -2044,7 +2044,7 @@
         :idAluno "A33709" ;
         :nome "JORGE_MANUEL_VIANA_RIBEIRO_MARTINS_FORTE" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A30209
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A30209
 :A30209 rdf:type owl:NamedIndividual ;
         :temCurso :CB15 ;
         :temInstrumento :Trombone ;
@@ -2053,7 +2053,7 @@
         :idAluno "A30209" ;
         :nome "JORGE_MIGUEL_GONCALVES_DA_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A21008
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A21008
 :A21008 rdf:type owl:NamedIndividual ;
         :temCurso :CB2 ;
         :temInstrumento :Contrabaixo ;
@@ -2062,7 +2062,7 @@
         :idAluno "A21008" ;
         :nome "JORGE_MIGUEL_SILVA_MELO_PEREIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35331
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35331
 :A35331 rdf:type owl:NamedIndividual ;
         :temCurso :CS22 ;
         :temInstrumento :Bandolim ;
@@ -2071,7 +2071,7 @@
         :idAluno "A35331" ;
         :nome "JOSE_ALEXANDRE_DE_CARVALHO_AMORIM" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38189
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38189
 :A38189 rdf:type owl:NamedIndividual ;
         :temCurso :CB3 ;
         :temInstrumento :Corne_Inglês ;
@@ -2080,7 +2080,7 @@
         :idAluno "A38189" ;
         :nome "JOSE_ANTONIO_DA_CUNHA_E_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A19705
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A19705
 :A19705 rdf:type owl:NamedIndividual ;
         :temCurso :CS11 ;
         :temInstrumento :Orgão ;
@@ -2089,7 +2089,7 @@
         :idAluno "A19705" ;
         :nome "JOSE_ANTONIO_PEREIRA_CIBRAO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A30211
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A30211
 :A30211 rdf:type owl:NamedIndividual ;
         :temCurso :CB5 ;
         :temInstrumento :Fagote ;
@@ -2098,7 +2098,7 @@
         :idAluno "A30211" ;
         :nome "JOSE_CARLOS_CARVALHO_DOS_SANTOS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A30212
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A30212
 :A30212 rdf:type owl:NamedIndividual ;
         :temCurso :CB10 ;
         :temInstrumento :Oboé ;
@@ -2107,7 +2107,7 @@
         :idAluno "A30212" ;
         :nome "JOSE_CARLOS_DA_ROCHA_MACHADO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A36960
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A36960
 :A36960 rdf:type owl:NamedIndividual ;
         :temCurso :CB17 ;
         :temInstrumento :Trompete ;
@@ -2116,7 +2116,7 @@
         :idAluno "A36960" ;
         :nome "JOSE_CARLOS_DE_FREITAS_FONTAO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A34434
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A34434
 :A34434 rdf:type owl:NamedIndividual ;
         :temCurso :CS13 ;
         :temInstrumento :Piano ;
@@ -2125,7 +2125,7 @@
         :idAluno "A34434" ;
         :nome "JOSE_CARLOS_MARQUES_DIAS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35332
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35332
 :A35332 rdf:type owl:NamedIndividual ;
         :temCurso :CB13 ;
         :temInstrumento :Piano ;
@@ -2134,7 +2134,7 @@
         :idAluno "A35332" ;
         :nome "JOSE_DIOGO_RIBEIRO_LIZ_DE_ALMEIDA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A39506
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A39506
 :A39506 rdf:type owl:NamedIndividual ;
         :temCurso :CB18 ;
         :temInstrumento :Tuba ;
@@ -2143,7 +2143,7 @@
         :idAluno "A39506" ;
         :nome "JOSE_EDUARDO_CORREIA_CALHEIROS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A36761
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A36761
 :A36761 rdf:type owl:NamedIndividual ;
         :temCurso :CB14 ;
         :temInstrumento :Saxofone ;
@@ -2152,7 +2152,7 @@
         :idAluno "A36761" ;
         :nome "JOSE_EDUARDO_TEIXEIRA_RITO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38224
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38224
 :A38224 rdf:type owl:NamedIndividual ;
         :temCurso :CB12 ;
         :temInstrumento :Percussão ;
@@ -2161,7 +2161,7 @@
         :idAluno "A38224" ;
         :nome "JOSE_FILIPE_HENRIQUES_VILAS_BOAS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35333
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35333
 :A35333 rdf:type owl:NamedIndividual ;
         :temCurso :CB19 ;
         :temInstrumento :Violoncelo ;
@@ -2170,7 +2170,7 @@
         :idAluno "A35333" ;
         :nome "JOSE_FILIPE_QUEIJO_FERNANDES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A23916
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A23916
 :A23916 rdf:type owl:NamedIndividual ;
         :temCurso :CB3 ;
         :temInstrumento :Corne_Inglês ;
@@ -2179,7 +2179,7 @@
         :idAluno "A23916" ;
         :nome "JOSE_GRACA_DA_NOBREGA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38222
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38222
 :A38222 rdf:type owl:NamedIndividual ;
         :temCurso :CS17 ;
         :temInstrumento :Trompete ;
@@ -2188,7 +2188,7 @@
         :idAluno "A38222" ;
         :nome "JOSE_LUIS_CARDOSO_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38205
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38205
 :A38205 rdf:type owl:NamedIndividual ;
         :temCurso :CB3 ;
         :temInstrumento :Corne_Inglês ;
@@ -2197,7 +2197,7 @@
         :idAluno "A38205" ;
         :nome "JOSE_LUIS_LOPES_DE_ARAUJO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A27629
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A27629
 :A27629 rdf:type owl:NamedIndividual ;
         :temCurso :CS22 ;
         :temInstrumento :Bandolim ;
@@ -2206,7 +2206,7 @@
         :idAluno "A27629" ;
         :nome "JOSE_LUIS_PINTO_MONTEIRO_ALVES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38206
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38206
 :A38206 rdf:type owl:NamedIndividual ;
         :temCurso :CS9 ;
         :temInstrumento :Harpa ;
@@ -2215,7 +2215,7 @@
         :idAluno "A38206" ;
         :nome "JOSE_MANUEL_ARAUJO_SOARES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35398
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35398
 :A35398 rdf:type owl:NamedIndividual ;
         :temCurso :CS6 ;
         :temInstrumento :Flauta ;
@@ -2224,7 +2224,7 @@
         :idAluno "A35398" ;
         :nome "JOSE_MANUEL_ESTEVES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A32480
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A32480
 :A32480 rdf:type owl:NamedIndividual ;
         :temCurso :CB10 ;
         :temInstrumento :Oboé ;
@@ -2233,7 +2233,7 @@
         :idAluno "A32480" ;
         :nome "JOSE_MANUEL_LIMA_GANDARELA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A30213
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A30213
 :A30213 rdf:type owl:NamedIndividual ;
         :temCurso :CB16 ;
         :temInstrumento :Trompa ;
@@ -2242,7 +2242,7 @@
         :idAluno "A30213" ;
         :nome "JOSE_MANUEL_LOUREIRO_DE_AZEVEDO_TEIXEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A22670
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A22670
 :A22670 rdf:type owl:NamedIndividual ;
         :temCurso :CB1 ;
         :temInstrumento :Clarinete ;
@@ -2251,7 +2251,7 @@
         :idAluno "A22670" ;
         :nome "JOSE_MANUEL_TEIXEIRA_FERNANDES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33182
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33182
 :A33182 rdf:type owl:NamedIndividual ;
         :temCurso :CS18 ;
         :temInstrumento :Tuba ;
@@ -2260,7 +2260,7 @@
         :idAluno "A33182" ;
         :nome "JOSE_MIGUEL_DOS_SANTOS_FERRAZ" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A28722
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A28722
 :A28722 rdf:type owl:NamedIndividual ;
         :temCurso :CS3 ;
         :temInstrumento :Corne_Inglês ;
@@ -2269,7 +2269,7 @@
         :idAluno "A28722" ;
         :nome "JOSE_MIGUEL_FERREIRA_PONTES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38121
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38121
 :A38121 rdf:type owl:NamedIndividual ;
         :temCurso :CS9 ;
         :temInstrumento :Harpa ;
@@ -2278,7 +2278,7 @@
         :idAluno "A38121" ;
         :nome "JOSE_MIGUEL_RODRIGUES_OLIVEIRA_DA_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35334
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35334
 :A35334 rdf:type owl:NamedIndividual ;
         :temCurso :CB19 ;
         :temInstrumento :Violoncelo ;
@@ -2287,7 +2287,7 @@
         :idAluno "A35334" ;
         :nome "JOSE_MIGUEL_SILVA_PEIXOTO_DE_CARVALHO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38136
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38136
 :A38136 rdf:type owl:NamedIndividual ;
         :temCurso :CB9 ;
         :temInstrumento :Harpa ;
@@ -2296,7 +2296,7 @@
         :idAluno "A38136" ;
         :nome "JOSE_NUNO_MARTINS_PINTO_FRAGA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35335
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35335
 :A35335 rdf:type owl:NamedIndividual ;
         :temCurso :CB1 ;
         :temInstrumento :Clarinete ;
@@ -2305,7 +2305,7 @@
         :idAluno "A35335" ;
         :nome "JOSE_PAULO_CARNEIRO_DE_MELO_MAMEDE" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35337
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35337
 :A35337 rdf:type owl:NamedIndividual ;
         :temCurso :CS6 ;
         :temInstrumento :Flauta ;
@@ -2314,7 +2314,7 @@
         :idAluno "A35337" ;
         :nome "JOSE_PEDRO_DOMINGUES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38142
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38142
 :A38142 rdf:type owl:NamedIndividual ;
         :temCurso :CB21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -2323,7 +2323,7 @@
         :idAluno "A38142" ;
         :nome "JOSE_PEDRO_FARIA_E_VASCONCELOS_CORREIA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38140
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38140
 :A38140 rdf:type owl:NamedIndividual ;
         :temCurso :CS14 ;
         :temInstrumento :Saxofone ;
@@ -2332,7 +2332,7 @@
         :idAluno "A38140" ;
         :nome "JOSE_PEDRO_MACHADO_GOMES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38137
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38137
 :A38137 rdf:type owl:NamedIndividual ;
         :temCurso :CB5 ;
         :temInstrumento :Fagote ;
@@ -2341,7 +2341,7 @@
         :idAluno "A38137" ;
         :nome "JOSE_PEDRO_RIBEIRO_DA_ARAUJO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38128
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38128
 :A38128 rdf:type owl:NamedIndividual ;
         :temCurso :CS4 ;
         :temInstrumento :Eufónio ;
@@ -2350,7 +2350,7 @@
         :idAluno "A38128" ;
         :nome "JOSE_PEDRO_RODRIGUES_MAGALHAES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A30214
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A30214
 :A30214 rdf:type owl:NamedIndividual ;
         :temCurso :CB12 ;
         :temInstrumento :Percussão ;
@@ -2359,7 +2359,7 @@
         :idAluno "A30214" ;
         :nome "JOSE_PEDRO_SILVA_DE_OLIVEIRA_CARVALHO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A23508
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A23508
 :A23508 rdf:type owl:NamedIndividual ;
         :temCurso :CB15 ;
         :temInstrumento :Trombone ;
@@ -2368,7 +2368,7 @@
         :idAluno "A23508" ;
         :nome "JOSE_ROMEU_FERNANDES_PINTO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38155
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38155
 :A38155 rdf:type owl:NamedIndividual ;
         :temCurso :CB12 ;
         :temInstrumento :Percussão ;
@@ -2377,7 +2377,7 @@
         :idAluno "A38155" ;
         :nome "JULIO_ANDRE_RODRIGUES_ARAUJO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35843
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35843
 :A35843 rdf:type owl:NamedIndividual ;
         :temCurso :CS19 ;
         :temInstrumento :Violoncelo ;
@@ -2386,7 +2386,7 @@
         :idAluno "A35843" ;
         :nome "LARA_SOFIA_ALPOIM_MIRANDA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38150
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38150
 :A38150 rdf:type owl:NamedIndividual ;
         :temCurso :CB5 ;
         :temInstrumento :Fagote ;
@@ -2395,7 +2395,7 @@
         :idAluno "A38150" ;
         :nome "LEANDRO_EMANUEL_DA_SILVA_SALGADO_BARBOSA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A34035
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A34035
 :A34035 rdf:type owl:NamedIndividual ;
         :temCurso :CS9 ;
         :temInstrumento :Harpa ;
@@ -2404,7 +2404,7 @@
         :idAluno "A34035" ;
         :nome "LEONOR_ISABEL_CONSTANTINO_CAEIRO_BOGA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A24839
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A24839
 :A24839 rdf:type owl:NamedIndividual ;
         :temCurso :CS5 ;
         :temInstrumento :Fagote ;
@@ -2413,7 +2413,7 @@
         :idAluno "A24839" ;
         :nome "LEONOR_ISABEL_FERREIRA_DE_MELO_OSORIO_ARAUJO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35339
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35339
 :A35339 rdf:type owl:NamedIndividual ;
         :temCurso :CS2 ;
         :temInstrumento :Contrabaixo ;
@@ -2422,7 +2422,7 @@
         :idAluno "A35339" ;
         :nome "LIDIA_NOGUEIRA_LARANJEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35340
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35340
 :A35340 rdf:type owl:NamedIndividual ;
         :temCurso :CB21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -2431,7 +2431,7 @@
         :idAluno "A35340" ;
         :nome "LILIANA_SOLANGE_SEQUEIRA_HENRIQUES_DE_MACEDO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33650
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33650
 :A33650 rdf:type owl:NamedIndividual ;
         :temCurso :CB16 ;
         :temInstrumento :Trompa ;
@@ -2440,7 +2440,7 @@
         :idAluno "A33650" ;
         :nome "LUIS_ANDRE_DA_CUNHA_MARQUES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35342
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35342
 :A35342 rdf:type owl:NamedIndividual ;
         :temCurso :CS14 ;
         :temInstrumento :Saxofone ;
@@ -2449,7 +2449,7 @@
         :idAluno "A35342" ;
         :nome "LUIS_CARLOS_GONCALO_LEONARDO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38223
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38223
 :A38223 rdf:type owl:NamedIndividual ;
         :temCurso :CB3 ;
         :temInstrumento :Corne_Inglês ;
@@ -2458,7 +2458,7 @@
         :idAluno "A38223" ;
         :nome "LUIS_DIOGO_MONTEIRO_DUARTE_COUTO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A39341
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A39341
 :A39341 rdf:type owl:NamedIndividual ;
         :temCurso :CS8 ;
         :temInstrumento :Guitarra ;
@@ -2467,7 +2467,7 @@
         :idAluno "A39341" ;
         :nome "LUIS_FERNANDO_ROMANEL_RODRIGUES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A39408
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A39408
 :A39408 rdf:type owl:NamedIndividual ;
         :temCurso :CB7 ;
         :temInstrumento :Fliscorne ;
@@ -2476,7 +2476,7 @@
         :idAluno "A39408" ;
         :nome "LUIS_FILIPE_FARIA_MONTEIRO_CAPELO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33186
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33186
 :A33186 rdf:type owl:NamedIndividual ;
         :temCurso :CS10 ;
         :temInstrumento :Oboé ;
@@ -2485,7 +2485,7 @@
         :idAluno "A33186" ;
         :nome "LUIS_FILIPE_GAMA_PAIS_CABRAL" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38219
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38219
 :A38219 rdf:type owl:NamedIndividual ;
         :temCurso :CS18 ;
         :temInstrumento :Tuba ;
@@ -2494,7 +2494,7 @@
         :idAluno "A38219" ;
         :nome "LUIS_FILIPE_PEREIRA_GONCALVES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A29631
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A29631
 :A29631 rdf:type owl:NamedIndividual ;
         :temCurso :CB5 ;
         :temInstrumento :Fagote ;
@@ -2503,7 +2503,7 @@
         :idAluno "A29631" ;
         :nome "LUIS_FILIPE_RIBEIRO_NOVAIS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A39747
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A39747
 :A39747 rdf:type owl:NamedIndividual ;
         :temCurso :CS10 ;
         :temInstrumento :Oboé ;
@@ -2512,7 +2512,7 @@
         :idAluno "A39747" ;
         :nome "LUIS_PEDRO_FERREIRA_LEITE_DOS_SANTOS_ALEIXO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33188
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33188
 :A33188 rdf:type owl:NamedIndividual ;
         :temCurso :CS15 ;
         :temInstrumento :Trombone ;
@@ -2521,7 +2521,7 @@
         :idAluno "A33188" ;
         :nome "LUIS_PEDRO_LOPES_PEREIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38172
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38172
 :A38172 rdf:type owl:NamedIndividual ;
         :temCurso :CB1 ;
         :temInstrumento :Clarinete ;
@@ -2530,7 +2530,7 @@
         :idAluno "A38172" ;
         :nome "LUIS_TIAGO_AFONSO_MASCARENHAS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38168
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38168
 :A38168 rdf:type owl:NamedIndividual ;
         :temCurso :CS8 ;
         :temInstrumento :Guitarra ;
@@ -2539,7 +2539,7 @@
         :idAluno "A38168" ;
         :nome "LUIZ_ALBERTO_DE_CASTRO_SANTOS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38254
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38254
 :A38254 rdf:type owl:NamedIndividual ;
         :temCurso :CB16 ;
         :temInstrumento :Trompa ;
@@ -2548,7 +2548,7 @@
         :idAluno "A38254" ;
         :nome "MANUEL_DOMINGOS_DE_CARVALHO_FELGUEIRAS_DA_SILVA_SANTOS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A30219
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A30219
 :A30219 rdf:type owl:NamedIndividual ;
         :temCurso :CB4 ;
         :temInstrumento :Eufónio ;
@@ -2557,7 +2557,7 @@
         :idAluno "A30219" ;
         :nome "MANUEL_FERNANDO_SOTO_MAIOR_FRANQUEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35348
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35348
 :A35348 rdf:type owl:NamedIndividual ;
         :temCurso :CS8 ;
         :temInstrumento :Guitarra ;
@@ -2566,7 +2566,7 @@
         :idAluno "A35348" ;
         :nome "MANUEL_JOSE_GOMES_MEIRELES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A27637
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A27637
 :A27637 rdf:type owl:NamedIndividual ;
         :temCurso :CB18 ;
         :temInstrumento :Tuba ;
@@ -2575,7 +2575,7 @@
         :idAluno "A27637" ;
         :nome "MANUEL_JOSE_TORRES_SOUSA_DA_CUNHA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A29004
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A29004
 :A29004 rdf:type owl:NamedIndividual ;
         :temCurso :CB1 ;
         :temInstrumento :Clarinete ;
@@ -2584,7 +2584,7 @@
         :idAluno "A29004" ;
         :nome "MARANGAZE_JOAQUIM_MUNHEPE_MULHANGA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35349
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35349
 :A35349 rdf:type owl:NamedIndividual ;
         :temCurso :CB6 ;
         :temInstrumento :Flauta ;
@@ -2593,7 +2593,7 @@
         :idAluno "A35349" ;
         :nome "MARCIA_MARLENE_DE_ALMEIDA_MARTINS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35350
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35350
 :A35350 rdf:type owl:NamedIndividual ;
         :temCurso :CB22 ;
         :temInstrumento :Bandolim ;
@@ -2602,7 +2602,7 @@
         :idAluno "A35350" ;
         :nome "MARCIAL_COELHO_GOMES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A39406
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A39406
 :A39406 rdf:type owl:NamedIndividual ;
         :temCurso :CS8 ;
         :temInstrumento :Guitarra ;
@@ -2611,7 +2611,7 @@
         :idAluno "A39406" ;
         :nome "MARCO_ALEXANDRE_AGUIAR_VAZ" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A29011
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A29011
 :A29011 rdf:type owl:NamedIndividual ;
         :temCurso :CB2 ;
         :temInstrumento :Contrabaixo ;
@@ -2620,7 +2620,7 @@
         :idAluno "A29011" ;
         :nome "MARCO_ALEXANDRE_BARREIRA_MEDEIROS_TEIXEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38178
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38178
 :A38178 rdf:type owl:NamedIndividual ;
         :temCurso :CB2 ;
         :temInstrumento :Contrabaixo ;
@@ -2629,7 +2629,7 @@
         :idAluno "A38178" ;
         :nome "MARCO_ALEXANDRE_TEIXEIRA_PALOS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38152
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38152
 :A38152 rdf:type owl:NamedIndividual ;
         :temCurso :CS16 ;
         :temInstrumento :Trompa ;
@@ -2638,7 +2638,7 @@
         :idAluno "A38152" ;
         :nome "MARCO_ANTONIO_SAMPAIO_FREITAS_DE_CASTRO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38179
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38179
 :A38179 rdf:type owl:NamedIndividual ;
         :temCurso :CS15 ;
         :temInstrumento :Trombone ;
@@ -2647,7 +2647,7 @@
         :idAluno "A38179" ;
         :nome "MARCO_ANTONIO_TEIXEIRA_MARTINS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A22685
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A22685
 :A22685 rdf:type owl:NamedIndividual ;
         :temCurso :CS12 ;
         :temInstrumento :Percussão ;
@@ -2656,7 +2656,7 @@
         :idAluno "A22685" ;
         :nome "MARCO_FRANCISCO_DA_SILVA_LIZARDO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A22688
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A22688
 :A22688 rdf:type owl:NamedIndividual ;
         :temCurso :CB8 ;
         :temInstrumento :Guitarra ;
@@ -2665,7 +2665,7 @@
         :idAluno "A22688" ;
         :nome "MARCO_RICARDO_BARBOSA_COELHO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A36864
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A36864
 :A36864 rdf:type owl:NamedIndividual ;
         :temCurso :CS11 ;
         :temInstrumento :Orgão ;
@@ -2674,7 +2674,7 @@
         :idAluno "A36864" ;
         :nome "MARIA_BEATRIZ_ALVES_DE_SA_CAMPOS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38184
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38184
 :A38184 rdf:type owl:NamedIndividual ;
         :temCurso :CS7 ;
         :temInstrumento :Fliscorne ;
@@ -2683,7 +2683,7 @@
         :idAluno "A38184" ;
         :nome "MARIA_CRISTINA_CARNEIRO_BARREIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A12753
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A12753
 :A12753 rdf:type owl:NamedIndividual ;
         :temCurso :CB16 ;
         :temInstrumento :Trompa ;
@@ -2692,7 +2692,7 @@
         :idAluno "A12753" ;
         :nome "MARIA_LUISA_VILLAVERDE_MACHADO_FERNANDES_NOVAIS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38161
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38161
 :A38161 rdf:type owl:NamedIndividual ;
         :temCurso :CS4 ;
         :temInstrumento :Eufónio ;
@@ -2701,7 +2701,7 @@
         :idAluno "A38161" ;
         :nome "MARIANA_PEREIRA_NEVES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38171
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38171
 :A38171 rdf:type owl:NamedIndividual ;
         :temCurso :CS22 ;
         :temInstrumento :Bandolim ;
@@ -2710,7 +2710,7 @@
         :idAluno "A38171" ;
         :nome "MARIO_ANDRE_PATRICIO_TEIXEIRA_JULIO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38194
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38194
 :A38194 rdf:type owl:NamedIndividual ;
         :temCurso :CB11 ;
         :temInstrumento :Orgão ;
@@ -2719,7 +2719,7 @@
         :idAluno "A38194" ;
         :nome "MARIO_DA_FONTE_LAMEIRAS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A23544
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A23544
 :A23544 rdf:type owl:NamedIndividual ;
         :temCurso :CB3 ;
         :temInstrumento :Corne_Inglês ;
@@ -2728,7 +2728,7 @@
         :idAluno "A23544" ;
         :nome "MARIO_RUI_ANUNCIACAO_MONTEIRO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A29048
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A29048
 :A29048 rdf:type owl:NamedIndividual ;
         :temCurso :CB2 ;
         :temInstrumento :Contrabaixo ;
@@ -2737,7 +2737,7 @@
         :idAluno "A29048" ;
         :nome "MARIO_RUI_RIBEIRO_FIALHO_DA_CONCEICAO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A36454
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A36454
 :A36454 rdf:type owl:NamedIndividual ;
         :temCurso :CB15 ;
         :temInstrumento :Trombone ;
@@ -2746,7 +2746,7 @@
         :idAluno "A36454" ;
         :nome "MICHEL_FERREIRA_PINTO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35352
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35352
 :A35352 rdf:type owl:NamedIndividual ;
         :temCurso :CB8 ;
         :temInstrumento :Guitarra ;
@@ -2755,7 +2755,7 @@
         :idAluno "A35352" ;
         :nome "MIGUEL_AFONSO_PIRES_DA_ROSA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38217
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38217
 :A38217 rdf:type owl:NamedIndividual ;
         :temCurso :CB8 ;
         :temInstrumento :Guitarra ;
@@ -2764,7 +2764,7 @@
         :idAluno "A38217" ;
         :nome "MIGUEL_ANGELO_MARQUES_DE_MATOS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38209
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38209
 :A38209 rdf:type owl:NamedIndividual ;
         :temCurso :CS17 ;
         :temInstrumento :Trompete ;
@@ -2773,7 +2773,7 @@
         :idAluno "A38209" ;
         :nome "MIGUEL_ANGELO_PINTO_MARQUES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A30226
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A30226
 :A30226 rdf:type owl:NamedIndividual ;
         :temCurso :CS3 ;
         :temInstrumento :Corne_Inglês ;
@@ -2782,7 +2782,7 @@
         :idAluno "A30226" ;
         :nome "MIGUEL_ANGELO_RIBEIRO_DE_SOUSA_E_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38221
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38221
 :A38221 rdf:type owl:NamedIndividual ;
         :temCurso :CB13 ;
         :temInstrumento :Piano ;
@@ -2791,7 +2791,7 @@
         :idAluno "A38221" ;
         :nome "MIGUEL_ANGELO_VIVAS_GOMES_ALVES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A21432
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A21432
 :A21432 rdf:type owl:NamedIndividual ;
         :temCurso :CS9 ;
         :temInstrumento :Harpa ;
@@ -2800,7 +2800,7 @@
         :idAluno "A21432" ;
         :nome "MIGUEL_MANUEL_GOMES_RODRIGUES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A39342
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A39342
 :A39342 rdf:type owl:NamedIndividual ;
         :temCurso :CB22 ;
         :temInstrumento :Bandolim ;
@@ -2809,7 +2809,7 @@
         :idAluno "A39342" ;
         :nome "MIGUEL_PEDRO_AMARAL_FIGUEIREDO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A32608
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A32608
 :A32608 rdf:type owl:NamedIndividual ;
         :temCurso :CB19 ;
         :temInstrumento :Violoncelo ;
@@ -2818,7 +2818,7 @@
         :idAluno "A32608" ;
         :nome "MIGUEL_PEDRO_DE_ALMEIDA_FERREIRA_CORREIA_DOURADO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33195
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33195
 :A33195 rdf:type owl:NamedIndividual ;
         :temCurso :CS16 ;
         :temInstrumento :Trompa ;
@@ -2827,7 +2827,7 @@
         :idAluno "A33195" ;
         :nome "MIGUEL_PINTO_DE_SOUSA_MARQUES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A22695
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A22695
 :A22695 rdf:type owl:NamedIndividual ;
         :temCurso :CS5 ;
         :temInstrumento :Fagote ;
@@ -2836,7 +2836,7 @@
         :idAluno "A22695" ;
         :nome "NANCY_DO_SAMEIRO_SILVERIO_LAVANDEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38216
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38216
 :A38216 rdf:type owl:NamedIndividual ;
         :temCurso :CB13 ;
         :temInstrumento :Piano ;
@@ -2845,7 +2845,7 @@
         :idAluno "A38216" ;
         :nome "NELSON_DE_SOUSA_E_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33196
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33196
 :A33196 rdf:type owl:NamedIndividual ;
         :temCurso :CS8 ;
         :temInstrumento :Guitarra ;
@@ -2854,7 +2854,7 @@
         :idAluno "A33196" ;
         :nome "NELSON_FILIPE_COELHO_DE_MOURA_SOUSA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33420
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33420
 :A33420 rdf:type owl:NamedIndividual ;
         :temCurso :CB9 ;
         :temInstrumento :Harpa ;
@@ -2863,7 +2863,7 @@
         :idAluno "A33420" ;
         :nome "NELSON_LEANDRO_BARBOSA_CARNEIRO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38195
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38195
 :A38195 rdf:type owl:NamedIndividual ;
         :temCurso :CS12 ;
         :temInstrumento :Percussão ;
@@ -2872,7 +2872,7 @@
         :idAluno "A38195" ;
         :nome "NELSON_TAVARES_CUNHA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33727
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33727
 :A33727 rdf:type owl:NamedIndividual ;
         :temCurso :CB21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -2881,7 +2881,7 @@
         :idAluno "A33727" ;
         :nome "NUNO_FILIPE_ANTUNES_DA_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33127
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33127
 :A33127 rdf:type owl:NamedIndividual ;
         :temCurso :CB19 ;
         :temInstrumento :Violoncelo ;
@@ -2890,7 +2890,7 @@
         :idAluno "A33127" ;
         :nome "NUNO_FILIPE_MAGALHAES_SANTOS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A24784
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A24784
 :A24784 rdf:type owl:NamedIndividual ;
         :temCurso :CB17 ;
         :temInstrumento :Trompete ;
@@ -2899,7 +2899,7 @@
         :idAluno "A24784" ;
         :nome "NUNO_FILIPE_MARQUES_MOREIRA_RIBEIRO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38208
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38208
 :A38208 rdf:type owl:NamedIndividual ;
         :temCurso :CB1 ;
         :temInstrumento :Clarinete ;
@@ -2908,7 +2908,7 @@
         :idAluno "A38208" ;
         :nome "NUNO_GONCALO_BETTENCOURT_DA_CRUZ_CORREIA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38203
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38203
 :A38203 rdf:type owl:NamedIndividual ;
         :temCurso :CS9 ;
         :temInstrumento :Harpa ;
@@ -2917,7 +2917,7 @@
         :idAluno "A38203" ;
         :nome "NUNO_JORGE_FERREIRA_GUIMARAES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A15619
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A15619
 :A15619 rdf:type owl:NamedIndividual ;
         :temCurso :CS2 ;
         :temInstrumento :Contrabaixo ;
@@ -2926,7 +2926,7 @@
         :idAluno "A15619" ;
         :nome "NUNO_MIGUEL_AFONSO_CARVALHO_DE_MOURA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35355
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35355
 :A35355 rdf:type owl:NamedIndividual ;
         :temCurso :CB16 ;
         :temInstrumento :Trompa ;
@@ -2935,7 +2935,7 @@
         :idAluno "A35355" ;
         :nome "NUNO_MIGUEL_MACHADO_ALVES_COSTA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33437
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33437
 :A33437 rdf:type owl:NamedIndividual ;
         :temCurso :CB22 ;
         :temInstrumento :Bandolim ;
@@ -2944,7 +2944,7 @@
         :idAluno "A33437" ;
         :nome "NUNO_MIGUEL_MARQUES_GOMES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A22701
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A22701
 :A22701 rdf:type owl:NamedIndividual ;
         :temCurso :CB9 ;
         :temInstrumento :Harpa ;
@@ -2953,7 +2953,7 @@
         :idAluno "A22701" ;
         :nome "NUNO_MIGUEL_MARTINS_CASANOVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A27645
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A27645
 :A27645 rdf:type owl:NamedIndividual ;
         :temCurso :CB3 ;
         :temInstrumento :Corne_Inglês ;
@@ -2962,7 +2962,7 @@
         :idAluno "A27645" ;
         :nome "NUNO_MIGUEL_OLIVEIRA_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A29282
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A29282
 :A29282 rdf:type owl:NamedIndividual ;
         :temCurso :CB4 ;
         :temInstrumento :Eufónio ;
@@ -2971,7 +2971,7 @@
         :idAluno "A29282" ;
         :nome "NUNO_VIRIATO_MACEDO_FERREIRA_DE_CARVALHO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38120
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38120
 :A38120 rdf:type owl:NamedIndividual ;
         :temCurso :CS11 ;
         :temInstrumento :Orgão ;
@@ -2980,7 +2980,7 @@
         :idAluno "A38120" ;
         :nome "OCTAVIO_DAVID_DA_CONCEICAO_JACINTO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A14539
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A14539
 :A14539 rdf:type owl:NamedIndividual ;
         :temCurso :CB16 ;
         :temInstrumento :Trompa ;
@@ -2989,7 +2989,7 @@
         :idAluno "A14539" ;
         :nome "ORLANDO_JORGE_GONCALVES_PINTO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33280
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33280
 :A33280 rdf:type owl:NamedIndividual ;
         :temCurso :CB14 ;
         :temInstrumento :Saxofone ;
@@ -2998,7 +2998,7 @@
         :idAluno "A33280" ;
         :nome "PAULO_BRUNO_DA_SILVA_VIDES_FERNANDES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A34508
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A34508
 :A34508 rdf:type owl:NamedIndividual ;
         :temCurso :CS9 ;
         :temInstrumento :Harpa ;
@@ -3007,7 +3007,7 @@
         :idAluno "A34508" ;
         :nome "PAULO_CESAR_ALMEIDA_DE_SA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A27577
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A27577
 :A27577 rdf:type owl:NamedIndividual ;
         :temCurso :CB11 ;
         :temInstrumento :Orgão ;
@@ -3016,7 +3016,7 @@
         :idAluno "A27577" ;
         :nome "PAULO_CESAR_DE_CARVALHO_LOPES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A39938
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A39938
 :A39938 rdf:type owl:NamedIndividual ;
         :temCurso :CB5 ;
         :temInstrumento :Fagote ;
@@ -3025,7 +3025,7 @@
         :idAluno "A39938" ;
         :nome "PAULO_CESAR_ROMANEL_RODRIGUES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33204
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33204
 :A33204 rdf:type owl:NamedIndividual ;
         :temCurso :CS8 ;
         :temInstrumento :Guitarra ;
@@ -3034,7 +3034,7 @@
         :idAluno "A33204" ;
         :nome "PAULO_EDUARDO_MIRANDA_CAMPOS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38122
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38122
 :A38122 rdf:type owl:NamedIndividual ;
         :temCurso :CS19 ;
         :temInstrumento :Violoncelo ;
@@ -3043,7 +3043,7 @@
         :idAluno "A38122" ;
         :nome "PAULO_JORGE_ASSIS_DE_SOUSA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35357
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35357
 :A35357 rdf:type owl:NamedIndividual ;
         :temCurso :CS2 ;
         :temInstrumento :Contrabaixo ;
@@ -3052,7 +3052,7 @@
         :idAluno "A35357" ;
         :nome "PAULO_JORGE_FERNANDES_DE_SOUSA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A30238
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A30238
 :A30238 rdf:type owl:NamedIndividual ;
         :temCurso :CS21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -3061,7 +3061,7 @@
         :idAluno "A30238" ;
         :nome "PAULO_JORGE_SOARES_MENDES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A39407
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A39407
 :A39407 rdf:type owl:NamedIndividual ;
         :temCurso :CS10 ;
         :temInstrumento :Oboé ;
@@ -3070,7 +3070,7 @@
         :idAluno "A39407" ;
         :nome "PAULO_MANUEL_RIBEIRO_NOVAIS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33209
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33209
 :A33209 rdf:type owl:NamedIndividual ;
         :temCurso :CB1 ;
         :temInstrumento :Clarinete ;
@@ -3079,7 +3079,7 @@
         :idAluno "A33209" ;
         :nome "PAULO_MIGUEL_SA_MORAIS_PIRES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A36476
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A36476
 :A36476 rdf:type owl:NamedIndividual ;
         :temCurso :CB1 ;
         :temInstrumento :Clarinete ;
@@ -3088,7 +3088,7 @@
         :idAluno "A36476" ;
         :nome "PEDRO_ALEXANDRE_FERREIRA_VILACA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35360
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35360
 :A35360 rdf:type owl:NamedIndividual ;
         :temCurso :CB20 ;
         :temInstrumento :Violino ;
@@ -3097,7 +3097,7 @@
         :idAluno "A35360" ;
         :nome "PEDRO_DANIEL_FERREIRA_DE_CARVALHO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A21711
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A21711
 :A21711 rdf:type owl:NamedIndividual ;
         :temCurso :CB21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -3106,7 +3106,7 @@
         :idAluno "A21711" ;
         :nome "PEDRO_DAVID_ALVES_MARTINHO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A32652
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A32652
 :A32652 rdf:type owl:NamedIndividual ;
         :temCurso :CS15 ;
         :temInstrumento :Trombone ;
@@ -3115,7 +3115,7 @@
         :idAluno "A32652" ;
         :nome "PEDRO_DUARTE_CARDOSO_LOPES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A36969
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A36969
 :A36969 rdf:type owl:NamedIndividual ;
         :temCurso :CS17 ;
         :temInstrumento :Trompete ;
@@ -3124,7 +3124,7 @@
         :idAluno "A36969" ;
         :nome "PEDRO_EMANUEL_FERNANDES_LOPES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33213
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33213
 :A33213 rdf:type owl:NamedIndividual ;
         :temCurso :CS6 ;
         :temInstrumento :Flauta ;
@@ -3133,7 +3133,7 @@
         :idAluno "A33213" ;
         :nome "PEDRO_GUIMARAES_DE_FREITAS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A30241
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A30241
 :A30241 rdf:type owl:NamedIndividual ;
         :temCurso :CB6 ;
         :temInstrumento :Flauta ;
@@ -3142,7 +3142,7 @@
         :idAluno "A30241" ;
         :nome "PEDRO_HENRIQUE_GONCALVES_GERAZ_RODRIGUES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33214
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33214
 :A33214 rdf:type owl:NamedIndividual ;
         :temCurso :CB21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -3151,7 +3151,7 @@
         :idAluno "A33214" ;
         :nome "PEDRO_JORGE_OSORIO_MARINHO_OLIVEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38116
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38116
 :A38116 rdf:type owl:NamedIndividual ;
         :temCurso :CS16 ;
         :temInstrumento :Trompa ;
@@ -3160,7 +3160,7 @@
         :idAluno "A38116" ;
         :nome "PEDRO_JOSE_MARTINS_FARIA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35144
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35144
 :A35144 rdf:type owl:NamedIndividual ;
         :temCurso :CB17 ;
         :temInstrumento :Trompete ;
@@ -3169,7 +3169,7 @@
         :idAluno "A35144" ;
         :nome "PEDRO_MANUEL_DE_AMORIM_MAGALHAES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38118
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38118
 :A38118 rdf:type owl:NamedIndividual ;
         :temCurso :CB1 ;
         :temInstrumento :Clarinete ;
@@ -3178,7 +3178,7 @@
         :idAluno "A38118" ;
         :nome "PEDRO_MANUEL_LOPES_PATRICIO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A27658
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A27658
 :A27658 rdf:type owl:NamedIndividual ;
         :temCurso :CS3 ;
         :temInstrumento :Corne_Inglês ;
@@ -3187,7 +3187,7 @@
         :idAluno "A27658" ;
         :nome "PEDRO_MIGUEL_ARAUJO_MOTA_LOPES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38159
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38159
 :A38159 rdf:type owl:NamedIndividual ;
         :temCurso :CS1 ;
         :temInstrumento :Clarinete ;
@@ -3196,7 +3196,7 @@
         :idAluno "A38159" ;
         :nome "PEDRO_MIGUEL_AZEVEDO_DE_OLIVEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35363
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35363
 :A35363 rdf:type owl:NamedIndividual ;
         :temCurso :CB11 ;
         :temInstrumento :Orgão ;
@@ -3205,7 +3205,7 @@
         :idAluno "A35363" ;
         :nome "PEDRO_MIGUEL_DA_SILVA_ARAUJO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A25383
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A25383
 :A25383 rdf:type owl:NamedIndividual ;
         :temCurso :CB12 ;
         :temInstrumento :Percussão ;
@@ -3214,7 +3214,7 @@
         :idAluno "A25383" ;
         :nome "PEDRO_MIGUEL_MARTINS_FERNANDES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35364
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35364
 :A35364 rdf:type owl:NamedIndividual ;
         :temCurso :CB7 ;
         :temInstrumento :Fliscorne ;
@@ -3223,7 +3223,7 @@
         :idAluno "A35364" ;
         :nome "PEDRO_MIGUEL_MEIRA_DAS_NEVES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33524
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33524
 :A33524 rdf:type owl:NamedIndividual ;
         :temCurso :CS13 ;
         :temInstrumento :Piano ;
@@ -3232,7 +3232,7 @@
         :idAluno "A33524" ;
         :nome "PEDRO_MIGUEL_PAES_MACHADO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35855
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35855
 :A35855 rdf:type owl:NamedIndividual ;
         :temCurso :CB6 ;
         :temInstrumento :Flauta ;
@@ -3241,7 +3241,7 @@
         :idAluno "A35855" ;
         :nome "PEDRO_MIGUEL_PINTO_RIBEIRO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38147
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38147
 :A38147 rdf:type owl:NamedIndividual ;
         :temCurso :CB19 ;
         :temInstrumento :Violoncelo ;
@@ -3250,7 +3250,7 @@
         :idAluno "A38147" ;
         :nome "PEDRO_MIGUEL_RAMOS_MADEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33281
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33281
 :A33281 rdf:type owl:NamedIndividual ;
         :temCurso :CB22 ;
         :temInstrumento :Bandolim ;
@@ -3259,7 +3259,7 @@
         :idAluno "A33281" ;
         :nome "PEDRO_MIGUEL_SOARES_PINTO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A30243
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A30243
 :A30243 rdf:type owl:NamedIndividual ;
         :temCurso :CB15 ;
         :temInstrumento :Trombone ;
@@ -3268,7 +3268,7 @@
         :idAluno "A30243" ;
         :nome "PEDRO_MIGUEL_VEIGA_DA_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38149
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38149
 :A38149 rdf:type owl:NamedIndividual ;
         :temCurso :CS8 ;
         :temInstrumento :Guitarra ;
@@ -3277,7 +3277,7 @@
         :idAluno "A38149" ;
         :nome "PEDRO_SILVESTRE_MENESES_MAGALHAES_COELHO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38160
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38160
 :A38160 rdf:type owl:NamedIndividual ;
         :temCurso :CS17 ;
         :temInstrumento :Trompete ;
@@ -3286,7 +3286,7 @@
         :idAluno "A38160" ;
         :nome "PEDRO_TIAGO_AMORIM_DE_BRITO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33082
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33082
 :A33082 rdf:type owl:NamedIndividual ;
         :temCurso :CB20 ;
         :temInstrumento :Violino ;
@@ -3295,7 +3295,7 @@
         :idAluno "A33082" ;
         :nome "PEDRO_TIAGO_DIAS_GONCALVES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38154
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38154
 :A38154 rdf:type owl:NamedIndividual ;
         :temCurso :CB2 ;
         :temInstrumento :Contrabaixo ;
@@ -3304,7 +3304,7 @@
         :idAluno "A38154" ;
         :nome "RAFAEL_DE_CASTRO_CARREIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38158
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38158
 :A38158 rdf:type owl:NamedIndividual ;
         :temCurso :CB9 ;
         :temInstrumento :Harpa ;
@@ -3313,7 +3313,7 @@
         :idAluno "A38158" ;
         :nome "RAUL_GRACIANO_OLIVEIRA_RODRIGUES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A30015
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A30015
 :A30015 rdf:type owl:NamedIndividual ;
         :temCurso :CS11 ;
         :temInstrumento :Orgão ;
@@ -3322,7 +3322,7 @@
         :idAluno "A30015" ;
         :nome "RENATO_CESAR_ALMEIDA_FIGUEIREDO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A39509
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A39509
 :A39509 rdf:type owl:NamedIndividual ;
         :temCurso :CB10 ;
         :temInstrumento :Oboé ;
@@ -3331,7 +3331,7 @@
         :idAluno "A39509" ;
         :nome "RICARDO_ANDRE_RODRIGUES_AFONSO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38153
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38153
 :A38153 rdf:type owl:NamedIndividual ;
         :temCurso :CB7 ;
         :temInstrumento :Fliscorne ;
@@ -3340,7 +3340,7 @@
         :idAluno "A38153" ;
         :nome "RICARDO_ARAUJO_CARVALHO_VILACA_MOREIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38151
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38151
 :A38151 rdf:type owl:NamedIndividual ;
         :temCurso :CB11 ;
         :temInstrumento :Orgão ;
@@ -3349,7 +3349,7 @@
         :idAluno "A38151" ;
         :nome "RICARDO_FERNANDO_LIRA_DE_MESQUITA_LACHADO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38129
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38129
 :A38129 rdf:type owl:NamedIndividual ;
         :temCurso :CS11 ;
         :temInstrumento :Orgão ;
@@ -3358,7 +3358,7 @@
         :idAluno "A38129" ;
         :nome "RICARDO_GOMES_DE_FARIA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33222
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33222
 :A33222 rdf:type owl:NamedIndividual ;
         :temCurso :CB4 ;
         :temInstrumento :Eufónio ;
@@ -3367,7 +3367,7 @@
         :idAluno "A33222" ;
         :nome "RICARDO_JORGE_ALMEIDA_DE_MAGALHAES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38130
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38130
 :A38130 rdf:type owl:NamedIndividual ;
         :temCurso :CS9 ;
         :temInstrumento :Harpa ;
@@ -3376,7 +3376,7 @@
         :idAluno "A38130" ;
         :nome "RICARDO_JORGE_RODRIGUES_SEPULVEDA_MARQUES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A34435
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A34435
 :A34435 rdf:type owl:NamedIndividual ;
         :temCurso :CB18 ;
         :temInstrumento :Tuba ;
@@ -3385,7 +3385,7 @@
         :idAluno "A34435" ;
         :nome "RICARDO_JOSE_FERREIRA_DIAS_DE_OLIVEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A19550
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A19550
 :A19550 rdf:type owl:NamedIndividual ;
         :temCurso :CB20 ;
         :temInstrumento :Violino ;
@@ -3394,7 +3394,7 @@
         :idAluno "A19550" ;
         :nome "RICARDO_MANUEL_RODRIGUES_DE_OLIVEIRA_DIMAS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35366
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35366
 :A35366 rdf:type owl:NamedIndividual ;
         :temCurso :CB5 ;
         :temInstrumento :Fagote ;
@@ -3403,7 +3403,7 @@
         :idAluno "A35366" ;
         :nome "RICARDO_MANUEL_VIANA_MAGALHAES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A22721
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A22721
 :A22721 rdf:type owl:NamedIndividual ;
         :temCurso :CS22 ;
         :temInstrumento :Bandolim ;
@@ -3412,7 +3412,7 @@
         :idAluno "A22721" ;
         :nome "RICARDO_NUNO_MOREIRA_CASTILHO_FERREIRA_LOPES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A30254
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A30254
 :A30254 rdf:type owl:NamedIndividual ;
         :temCurso :CB20 ;
         :temInstrumento :Violino ;
@@ -3421,7 +3421,7 @@
         :idAluno "A30254" ;
         :nome "ROQUE_MANUEL_DE_CARVALHO_TEIXEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A18770
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A18770
 :A18770 rdf:type owl:NamedIndividual ;
         :temCurso :CS14 ;
         :temInstrumento :Saxofone ;
@@ -3430,7 +3430,7 @@
         :idAluno "A18770" ;
         :nome "ROSA_ALEXANDRA_AZEVEDO_GUIMARAES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38141
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38141
 :A38141 rdf:type owl:NamedIndividual ;
         :temCurso :CB19 ;
         :temInstrumento :Violoncelo ;
@@ -3439,7 +3439,7 @@
         :idAluno "A38141" ;
         :nome "RUBEN_FILIPE_CARDOSO_DA_FONSECA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38200
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38200
 :A38200 rdf:type owl:NamedIndividual ;
         :temCurso :CS20 ;
         :temInstrumento :Violino ;
@@ -3448,7 +3448,7 @@
         :idAluno "A38200" ;
         :nome "RUI_ALEXANDRE_SERRANO_DE_MOURA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A36764
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A36764
 :A36764 rdf:type owl:NamedIndividual ;
         :temCurso :CS2 ;
         :temInstrumento :Contrabaixo ;
@@ -3457,7 +3457,7 @@
         :idAluno "A36764" ;
         :nome "RUI_ANDRE_FERREIRA_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38135
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38135
 :A38135 rdf:type owl:NamedIndividual ;
         :temCurso :CB20 ;
         :temInstrumento :Violino ;
@@ -3466,7 +3466,7 @@
         :idAluno "A38135" ;
         :nome "RUI_ANDRE_LEITE_RIBEIRO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A39944
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A39944
 :A39944 rdf:type owl:NamedIndividual ;
         :temCurso :CB9 ;
         :temInstrumento :Harpa ;
@@ -3475,7 +3475,7 @@
         :idAluno "A39944" ;
         :nome "RUI_ANTONIO_PEIXOTO_DE_ABREU" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38148
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38148
 :A38148 rdf:type owl:NamedIndividual ;
         :temCurso :CB4 ;
         :temInstrumento :Eufónio ;
@@ -3484,7 +3484,7 @@
         :idAluno "A38148" ;
         :nome "RUI_DOMINGOS_GUIMARAES_SALGADO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33228
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33228
 :A33228 rdf:type owl:NamedIndividual ;
         :temCurso :CB16 ;
         :temInstrumento :Trompa ;
@@ -3493,7 +3493,7 @@
         :idAluno "A33228" ;
         :nome "RUI_FILIPE_BARROS_TAVARES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38146
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38146
 :A38146 rdf:type owl:NamedIndividual ;
         :temCurso :CB18 ;
         :temInstrumento :Tuba ;
@@ -3502,7 +3502,7 @@
         :idAluno "A38146" ;
         :nome "RUI_FILIPE_TORRES_ALEXANDRE" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38908
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38908
 :A38908 rdf:type owl:NamedIndividual ;
         :temCurso :CB8 ;
         :temInstrumento :Guitarra ;
@@ -3511,7 +3511,7 @@
         :idAluno "A38908" ;
         :nome "RUI_JORGE_DE_OLIVEIRA_PEREIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35371
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35371
 :A35371 rdf:type owl:NamedIndividual ;
         :temCurso :CB9 ;
         :temInstrumento :Harpa ;
@@ -3520,7 +3520,7 @@
         :idAluno "A35371" ;
         :nome "RUI_JORGE_GUIMARAES_MACHADO_RODRIGUES_VALENTE" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A24875
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A24875
 :A24875 rdf:type owl:NamedIndividual ;
         :temCurso :CS19 ;
         :temInstrumento :Violoncelo ;
@@ -3529,7 +3529,7 @@
         :idAluno "A24875" ;
         :nome "RUI_MANUEL_COUTO_DA_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A37029
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A37029
 :A37029 rdf:type owl:NamedIndividual ;
         :temCurso :CB22 ;
         :temInstrumento :Bandolim ;
@@ -3538,7 +3538,7 @@
         :idAluno "A37029" ;
         :nome "RUI_MANUEL_DA_SILVA_PEREIRA_NEIVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33229
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33229
 :A33229 rdf:type owl:NamedIndividual ;
         :temCurso :CB4 ;
         :temInstrumento :Eufónio ;
@@ -3547,7 +3547,7 @@
         :idAluno "A33229" ;
         :nome "RUI_MANUEL_SILVA_OLIVEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38119
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38119
 :A38119 rdf:type owl:NamedIndividual ;
         :temCurso :CS5 ;
         :temInstrumento :Fagote ;
@@ -3556,7 +3556,7 @@
         :idAluno "A38119" ;
         :nome "RUI_MIGUEL_DA_SILVA_ABREU" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A24876
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A24876
 :A24876 rdf:type owl:NamedIndividual ;
         :temCurso :CB16 ;
         :temInstrumento :Trompa ;
@@ -3565,7 +3565,7 @@
         :idAluno "A24876" ;
         :nome "RUI_MIGUEL_ESCUDEIRO_DA_COSTA_AGUIAR" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A29253
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A29253
 :A29253 rdf:type owl:NamedIndividual ;
         :temCurso :CB9 ;
         :temInstrumento :Harpa ;
@@ -3574,7 +3574,7 @@
         :idAluno "A29253" ;
         :nome "RUI_MIGUEL_FERNANDES_VARELA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A25868
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A25868
 :A25868 rdf:type owl:NamedIndividual ;
         :temCurso :CB9 ;
         :temInstrumento :Harpa ;
@@ -3583,7 +3583,7 @@
         :idAluno "A25868" ;
         :nome "RUI_MIGUEL_MORAIS_LOPES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A28735
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A28735
 :A28735 rdf:type owl:NamedIndividual ;
         :temCurso :CS4 ;
         :temInstrumento :Eufónio ;
@@ -3592,7 +3592,7 @@
         :idAluno "A28735" ;
         :nome "RUI_MIGUEL_NOVAIS_CASTRO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A27673
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A27673
 :A27673 rdf:type owl:NamedIndividual ;
         :temCurso :CB1 ;
         :temInstrumento :Clarinete ;
@@ -3601,7 +3601,7 @@
         :idAluno "A27673" ;
         :nome "RUI_MIGUEL_PEREIRA_OLIVEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35372
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35372
 :A35372 rdf:type owl:NamedIndividual ;
         :temCurso :CB8 ;
         :temInstrumento :Guitarra ;
@@ -3610,7 +3610,7 @@
         :idAluno "A35372" ;
         :nome "RUI_PEDRO_ANDIAS_DUARTE" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33234
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33234
 :A33234 rdf:type owl:NamedIndividual ;
         :temCurso :CB4 ;
         :temInstrumento :Eufónio ;
@@ -3619,7 +3619,7 @@
         :idAluno "A33234" ;
         :nome "SANDRA_MARIA_OLIVEIRA_CARVALHO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A36765
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A36765
 :A36765 rdf:type owl:NamedIndividual ;
         :temCurso :CB9 ;
         :temInstrumento :Harpa ;
@@ -3628,7 +3628,7 @@
         :idAluno "A36765" ;
         :nome "SANDRA_MARIA_TELES_FEIO_ALMEIDA_FAZENDEIRO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38173
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38173
 :A38173 rdf:type owl:NamedIndividual ;
         :temCurso :CB11 ;
         :temInstrumento :Orgão ;
@@ -3637,7 +3637,7 @@
         :idAluno "A38173" ;
         :nome "SEBASTIAO_MONTEIRO_SIMOES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38183
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38183
 :A38183 rdf:type owl:NamedIndividual ;
         :temCurso :CB10 ;
         :temInstrumento :Oboé ;
@@ -3646,7 +3646,7 @@
         :idAluno "A38183" ;
         :nome "SERGIO_BRANCO_AMORIM" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33235
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33235
 :A33235 rdf:type owl:NamedIndividual ;
         :temCurso :CB14 ;
         :temInstrumento :Saxofone ;
@@ -3655,7 +3655,7 @@
         :idAluno "A33235" ;
         :nome "SERGIO_DE_ALMEIDA_PAIVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A39343
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A39343
 :A39343 rdf:type owl:NamedIndividual ;
         :temCurso :CS19 ;
         :temInstrumento :Violoncelo ;
@@ -3664,7 +3664,7 @@
         :idAluno "A39343" ;
         :nome "SERGIO_FELICIANO_FERREIRA_JACOME" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A39410
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A39410
 :A39410 rdf:type owl:NamedIndividual ;
         :temCurso :CB12 ;
         :temInstrumento :Percussão ;
@@ -3673,7 +3673,7 @@
         :idAluno "A39410" ;
         :nome "SERGIO_FILIPE_PEREIRA_DA_FELICIDADE" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35374
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35374
 :A35374 rdf:type owl:NamedIndividual ;
         :temCurso :CB2 ;
         :temInstrumento :Contrabaixo ;
@@ -3682,7 +3682,7 @@
         :idAluno "A35374" ;
         :nome "SERGIO_MANUEL_PEREIRA_BARREIRO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A24885
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A24885
 :A24885 rdf:type owl:NamedIndividual ;
         :temCurso :CB9 ;
         :temInstrumento :Harpa ;
@@ -3691,7 +3691,7 @@
         :idAluno "A24885" ;
         :nome "SERGIO_MANUEL_RUIVO_CARDOSO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38177
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38177
 :A38177 rdf:type owl:NamedIndividual ;
         :temCurso :CB4 ;
         :temInstrumento :Eufónio ;
@@ -3700,7 +3700,7 @@
         :idAluno "A38177" ;
         :nome "SERGIO_NUNO_CLARO_GOMES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35375
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35375
 :A35375 rdf:type owl:NamedIndividual ;
         :temCurso :CS20 ;
         :temInstrumento :Violino ;
@@ -3709,7 +3709,7 @@
         :idAluno "A35375" ;
         :nome "SERGIO_RICARDO_TEIXEIRA_ANDIAS_MIRANDA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38181
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38181
 :A38181 rdf:type owl:NamedIndividual ;
         :temCurso :CS13 ;
         :temInstrumento :Piano ;
@@ -3718,7 +3718,7 @@
         :idAluno "A38181" ;
         :nome "SOFIA_DA_CONCEICAO_ALVES_MENDES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33238
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33238
 :A33238 rdf:type owl:NamedIndividual ;
         :temCurso :CS18 ;
         :temInstrumento :Tuba ;
@@ -3727,7 +3727,7 @@
         :idAluno "A33238" ;
         :nome "SONIA_ANDREA_GARRIDO_DE_SA_EIRAS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35376
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35376
 :A35376 rdf:type owl:NamedIndividual ;
         :temCurso :CB21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -3736,7 +3736,7 @@
         :idAluno "A35376" ;
         :nome "TELMA_DE_FATIMA_PIRES_DE_SA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38131
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38131
 :A38131 rdf:type owl:NamedIndividual ;
         :temCurso :CS21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -3745,7 +3745,7 @@
         :idAluno "A38131" ;
         :nome "TIAGO_DANIEL_CERQUEIRA_BOTELHO_DA_SILVA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33240
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33240
 :A33240 rdf:type owl:NamedIndividual ;
         :temCurso :CB21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -3754,7 +3754,7 @@
         :idAluno "A33240" ;
         :nome "TIAGO_JORGE_GOMES_DA_SILVA_ARAUJO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38144
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38144
 :A38144 rdf:type owl:NamedIndividual ;
         :temCurso :CB6 ;
         :temInstrumento :Flauta ;
@@ -3763,7 +3763,7 @@
         :idAluno "A38144" ;
         :nome "TIAGO_LEANDRO_DE_CASTRO_RIBEIRO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38145
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38145
 :A38145 rdf:type owl:NamedIndividual ;
         :temCurso :CS12 ;
         :temInstrumento :Percussão ;
@@ -3772,7 +3772,7 @@
         :idAluno "A38145" ;
         :nome "TIAGO_MIGUEL_SOARES_FERNANDES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A29254
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A29254
 :A29254 rdf:type owl:NamedIndividual ;
         :temCurso :CS8 ;
         :temInstrumento :Guitarra ;
@@ -3781,7 +3781,7 @@
         :idAluno "A29254" ;
         :nome "TITO_JOSE_FERREIRA_DE_SOUSA_LOPES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35418
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35418
 :A35418 rdf:type owl:NamedIndividual ;
         :temCurso :CB22 ;
         :temInstrumento :Bandolim ;
@@ -3790,7 +3790,7 @@
         :idAluno "A35418" ;
         :nome "VALTER_MIGUEL_OLIVEIRA_VILAR" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38127
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38127
 :A38127 rdf:type owl:NamedIndividual ;
         :temCurso :CS5 ;
         :temInstrumento :Fagote ;
@@ -3799,7 +3799,7 @@
         :idAluno "A38127" ;
         :nome "VANESSA_ALZIRA_ABRUNHOSA_CARNEIRO_DE_CASTRO_FIDALGO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33282
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33282
 :A33282 rdf:type owl:NamedIndividual ;
         :temCurso :CB17 ;
         :temInstrumento :Trompete ;
@@ -3808,7 +3808,7 @@
         :idAluno "A33282" ;
         :nome "VIRGILIO_ABRANTES_VINHA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A30266
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A30266
 :A30266 rdf:type owl:NamedIndividual ;
         :temCurso :CS10 ;
         :temInstrumento :Oboé ;
@@ -3817,7 +3817,7 @@
         :idAluno "A30266" ;
         :nome "VITOR_CARLOS_TEIXEIRA_PIMENTEL" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35377
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35377
 :A35377 rdf:type owl:NamedIndividual ;
         :temCurso :CB7 ;
         :temInstrumento :Fliscorne ;
@@ -3826,7 +3826,7 @@
         :idAluno "A35377" ;
         :nome "VITOR_DA_COSTA_PINHEIRO" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38192
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38192
 :A38192 rdf:type owl:NamedIndividual ;
         :temCurso :CS1 ;
         :temInstrumento :Clarinete ;
@@ -3835,7 +3835,7 @@
         :idAluno "A38192" ;
         :nome "VITOR_HUGO_DA_SILVA_NOGUEIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A35378
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A35378
 :A35378 rdf:type owl:NamedIndividual ;
         :temCurso :CB16 ;
         :temInstrumento :Trompa ;
@@ -3844,7 +3844,7 @@
         :idAluno "A35378" ;
         :nome "VITOR_HUGO_PEREIRA_DA_SILVA_MOREIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A38182
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A38182
 :A38182 rdf:type owl:NamedIndividual ;
         :temCurso :CB22 ;
         :temInstrumento :Bandolim ;
@@ -3853,7 +3853,7 @@
         :idAluno "A38182" ;
         :nome "VITOR_MANUEL_ALVES_DA_ROCHA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A36773
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A36773
 :A36773 rdf:type owl:NamedIndividual ;
         :temCurso :CS22 ;
         :temInstrumento :Bandolim ;
@@ -3862,7 +3862,7 @@
         :idAluno "A36773" ;
         :nome "VITOR_MANUEL_CARVALHO_RODRIGUES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A39671
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A39671
 :A39671 rdf:type owl:NamedIndividual ;
         :temCurso :CB13 ;
         :temInstrumento :Piano ;
@@ -3871,7 +3871,7 @@
         :idAluno "A39671" ;
         :nome "VITOR_MANUEL_PINTO_LOPES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A27648
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A27648
 :A27648 rdf:type owl:NamedIndividual ;
         :temCurso :CB4 ;
         :temInstrumento :Eufónio ;
@@ -3880,7 +3880,7 @@
         :idAluno "A27648" ;
         :nome "NUNO_RAMOS_MATOS" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A27620
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A27620
 :A27620 rdf:type owl:NamedIndividual ;
         :temCurso :CB21 ;
         :temInstrumento :Viola_de_Arco ;
@@ -3889,7 +3889,7 @@
         :idAluno "A27620" ;
         :nome "JOAO_ANDRE_FARIA_LOPES" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A33199
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A33199
 :A33199 rdf:type owl:NamedIndividual ;
         :temCurso :CB10 ;
         :temInstrumento :Oboé ;
@@ -3898,7 +3898,7 @@
         :idAluno "A33199" ;
         :nome "NUNO_FILIPE_MENDES_PEREIRA" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#AE-939
+###  http://rpcw.di.uminho.pt/2024/dbMusica#AE-939
 :AE-939 rdf:type owl:NamedIndividual ;
         :temCurso :CS1 ;
         :temInstrumento :Clarinete ;
@@ -3907,7 +3907,7 @@
         :idAluno "AE-939" ;
         :nome "Jorge_Gonzalez_y_Hurtado_de_Mendoza" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#AE-922
+###  http://rpcw.di.uminho.pt/2024/dbMusica#AE-922
 :AE-922 rdf:type owl:NamedIndividual ;
         :temCurso :CS6 ;
         :temInstrumento :Flauta ;
@@ -3916,7 +3916,7 @@
         :idAluno "AE-922" ;
         :nome "Brais_Hernandez_Facal" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#AE-907
+###  http://rpcw.di.uminho.pt/2024/dbMusica#AE-907
 :AE-907 rdf:type owl:NamedIndividual ;
         :temCurso :CB7 ;
         :temInstrumento :Fliscorne ;
@@ -3925,7 +3925,7 @@
         :idAluno "AE-907" ;
         :nome "Oscar_Lopez_Garcia" .
     
-###  http://rpcw.di.uminho.pt/2024/musica#A4140
+###  http://rpcw.di.uminho.pt/2024/dbMusica#A4140
 :A4140 rdf:type owl:NamedIndividual ;
         :temCurso :CB14 ;
         :temInstrumento :Saxofone ;
