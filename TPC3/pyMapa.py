@@ -81,7 +81,7 @@ ttl = """@prefix : <http://rpcw.di.uminho.pt/2024/mapa_virtual/> .
 ###  http://rpcw.di.uminho.pt/2024/mapa_virtual#temDistancia
 :temDistancia rdf:type owl:DatatypeProperty ;
              rdfs:domain :Ligacao ;
-             rdfs:range xsd:int .
+             rdfs:range xsd:float .
 
 #################################################################
 #    Classes
