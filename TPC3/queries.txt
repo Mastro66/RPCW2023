@@ -1,0 +1,34 @@
+Quais as cidades de um determinado distrito?
+PREFIX : <http://rpcw.di.uminho.pt/2024/mapa_virtual/>
+select ?nome where { 
+    ?s :nomeDistrito "Porto" .
+    ?s :nomeCidade ?nome
+}
+
+Distribuição de cidades por distrito?
+
+PREFIX : <http://rpcw.di.uminho.pt/2024/mapa_virtual/>
+select ?distrito (COUNT(distinct ?cidade) as ?ncidades) where { 
+    ?cidade :nomeDistrito ?distrito .
+}
+group by ?distrito
+
+Quantas cidades se podem atingir a partir do Porto?
+PREFIX : <http://rpcw.di.uminho.pt/2024/mapa_virtual/>
+
+SELECT distinct ?cidade WHERE {
+    ?porto :nomeDistrito "Porto" .
+    ?ligacao :temOrigem ?porto .
+    ?ligacao :temDestino ?c .
+    ?c :nomeCidade ?cidade
+}
+
+Quais as cidades com população acima de um determinado valor?;
+PREFIX : <http://rpcw.di.uminho.pt/2024/mapa_virtual/>
+
+SELECT ?nome ?populacao WHERE {
+    ?cidade a :cidade .
+	?cidade :nomeCidade ?nome .
+    ?cidade :numPopulacao ?populacao .
+    FILTER (100000 < ?populacao).
+}ORDER BY DESC (?populacao) 
