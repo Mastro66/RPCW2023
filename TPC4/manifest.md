@@ -24,7 +24,7 @@ Em seguida, foram desenvolvidas seis páginas web distintas:
 
 /empty: Nas situações em que as páginas não contêm informações específicas, a estrutura padrão da página empty.html é empregue para assegurar uma experiência consistente para o utilizador, indicando que a página encontra-se vazia neste momento.
 
-### -> Criação da Ontologia
+### -> Como executar
 
 Comece por garantir que possui um repositório no GraphDB com o nome "tabelaPeriodica" e faça o upload do ficheiro "tabela-periodica.ttl" para esse repositório. Além disso, é fundamental ter a biblioteca ```Flask``` para Python instalada.
 A partir deste momento, a página web principal estará disponível em ```localhost:7200```.
