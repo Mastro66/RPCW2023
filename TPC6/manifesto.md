@@ -1,11 +1,4 @@
----
-Título: TPC6
-Data: 12 de Março de 2024
-Autor: Joana Pereira
-UC: RPCW
----
-
-Estre trabalho tinha como objetivo final a geração de uma interface web com informação de filmes. Para isso foi dividido em 3 fases:
+Este trabalho tinha como objetivo final a geração de uma interface web com informação de filmes. Para isso foi dividido em 3 fases:
 
 ### JSON to Turtle
 
