@@ -57,9 +57,10 @@ WHERE {
   }
 }
 ORDER BY ASC(?nomeCidadeLigada)
-
+```
 ### Através duma query CONSTRUCT cria uma ligação direta entre Braga e todas as cidades que se conseguem visitar a partir dela.
 
+```
 PREFIX : <http://rpcw.di.uminho.pt/2024/mapa_virtual/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
